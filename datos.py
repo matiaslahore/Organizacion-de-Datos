@@ -33,5 +33,3 @@ for i in range(len(Matrix2)):
 		z += 1
 
 print Matrix2	
-
-http://conociendogithub.readthedocs.org/en/latest/data/dinamica-de-uso/
