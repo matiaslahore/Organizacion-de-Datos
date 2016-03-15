@@ -1,5 +1,6 @@
 Matrix2 = [[0 for x in range(2)] for x in range(2)]
 Matrix = [[0 for x in range(4)] for x in range(4)]
+promedio = [0 for x in range(4)]
 
 Matrix[0][0] = 0
 Matrix[0][1] = 1
@@ -21,15 +22,14 @@ Matrix[3][3] = 3
 print Matrix
 print
 
-prom = [0 for x in range(4)]
 for i in range(len(Matrix)):
 	for j in range(len(Matrix[i])):
-		prom[j] += Matrix[i][j]
+		promedio[j] += Matrix[i][j]
 
 z = 0
 for i in range(len(Matrix2)):
 	for j in range(len(Matrix2[i])):
-		Matrix2[i][j] = prom[z]
+		Matrix2[i][j] = promedio[z]
 		z += 1
 
 print Matrix2	
