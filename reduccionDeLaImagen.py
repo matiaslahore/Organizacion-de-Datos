@@ -1,6 +1,6 @@
 import numpy as np
 
-def reduccionDeLaImagen(dataSet=[]):
+def reduccionDeLaImagen(dataSet):
 	imagen = np.zeros((28,28))
 	reduccion = np.zeros((14,14))
 
@@ -19,12 +19,12 @@ def reduccionDeLaImagen(dataSet=[]):
 				reduccion[x/2][y/2] = imagen[x][y]/4
 		
 		lista = range(196)
-		dataSet = []
+		dataSetNew = []
 		for x in range(14):
 			for y in range(14):
 				lista[x*14+y] = reduccion[x][y]
-		dataSet.append(lista)
+		dataSetNew.append(lista)
 
-		if (int(float(r)/float(len(trainingSet))*100.0) != int(float(r-1)/float(len(trainingSet))*100.0)):
-			print 'pre-procesamiento imagen : ' + str(int(float(r)/float(len(trainingSet))*100.0)) + ' %'
-
+		if (int(float(r)/float(len(dataSet))*100.0) != int(float(r-1)/float(len(dataSet))*100.0)):
+			print 'pre-procesamiento imagen : ' + str(int(float(r)/float(len(dataSet))*100.0)) + ' %'
+	dataSet = dataSetNew
