@@ -1,9 +1,9 @@
 import numpy as np
 
 def reduccionDeLaImagen(dataSet):
+
 	imagen = np.zeros((28,28))
 	reduccion = np.zeros((14,14))
-
 
 	dataSetNew=[]
 	for r in range(len(dataSet)): 
