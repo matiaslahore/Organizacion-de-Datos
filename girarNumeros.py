@@ -22,7 +22,7 @@ def compute_skew(image):
     height = 14
     width = 14
 
-    edges = image
+    edges = cv2.Canny(image, 150, 200, 3, 5)
     lines = cv2.HoughLinesP(edges, 1, cv2.cv.CV_PI/180, 100, minLineLength=width / 2.0, maxLineGap=20)
     if(not lines):
         return None
