@@ -7,8 +7,8 @@
 #define DIMENSIONES 164
 */
 #include <Eigen/Core>
-#define DIMENSIONES 181
-
+#define DIMENSIONES 164
+#define RADIO_EXTRA_IMPOSTORES 0.0001
 typedef Eigen::Matrix<float,DIMENSIONES,DIMENSIONES> Matriz;
 typedef Eigen::Matrix<float,DIMENSIONES,1> Vector;
 typedef Eigen::Matrix<float,1,DIMENSIONES> Vectort;

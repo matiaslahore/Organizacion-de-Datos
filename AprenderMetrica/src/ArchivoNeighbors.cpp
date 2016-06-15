@@ -62,7 +62,7 @@ void ArchivoNeighbors::agregarActiveSets(ConjuntoActiveSets& sets){
 			for(it_vecino = imagenes.begin(); it_vecino != imagenes.end(); ++it_vecino){
 				Imagen* vecino = it_vecino->second;
 				double distancia_otro = dato->euclideanaCuadrada(*vecino);
-				bool cumplen_distancias = distancia_otro<=distancia_target+1;
+				bool cumplen_distancias = distancia_otro<=distancia_target+RADIO_EXTRA_IMPOSTORES;
 				bool labels_distintos = (dato->entrada.label != vecino->entrada.label);
 				if(labels_distintos && cumplen_distancias){//definición de intruso del papaer!!!
 				
@@ -114,7 +114,7 @@ void ArchivoNeighbors::agregarActiveSets(ConjuntoActiveSets& sets, Matriz& m){
 			for(it_vecino = imagenes.begin(); it_vecino != imagenes.end(); ++it_vecino){
 				Imagen* vecino = it_vecino->second;
 				double distancia_otro = dato->distanciaMahalanobis(*vecino,m);
-				bool cumplen_distancias = distancia_otro<=distancia_target+1;
+				bool cumplen_distancias = distancia_otro<=distancia_target+RADIO_EXTRA_IMPOSTORES;
 				bool labels_distintos = (dato->entrada.label != vecino->entrada.label);
 				if(labels_distintos && cumplen_distancias){//definición de intruso del papaer!!!
 				
@@ -241,7 +241,7 @@ void ArchivoNeighbors::filtrarActivos(ConjuntoActiveSets& sets, ConjuntoActiveSe
 		
 		double distancia_target = dato->distanciaMahalanobis(*target,m);
 		double distancia_otro = dato->distanciaMahalanobis(*impostor,m);
-		bool cumplen_distancias = distancia_otro<=distancia_target+1;
+		bool cumplen_distancias = distancia_otro<=distancia_target+RADIO_EXTRA_IMPOSTORES;
 		
 		if(cumplen_distancias){
 			filtrados.insert(*it);
