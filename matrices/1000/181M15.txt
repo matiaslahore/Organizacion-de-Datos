@@ -1,0 +1,4 @@
+5 targetneighbors
+15 iteraciones
+primeras 181 dimensiones de la reducción a 14x14
+radio para impostores: 1
