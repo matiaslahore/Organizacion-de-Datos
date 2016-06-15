@@ -1,3 +1,8 @@
+#esto es pola
+# http://ai.stanford.edu/~ang/papers/icml04-onlinemetric.pdf
+# siempre lee de entrada.csv, siempre escupe a matriz y a archivob
+# cuando cambias el set de datos tenes que correr inicializador.py
+
 import csv
 import numpy
 import random

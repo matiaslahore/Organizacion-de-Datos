@@ -1,3 +1,8 @@
+#esto es pola
+# http://ai.stanford.edu/~ang/papers/icml04-onlinemetric.pdf
+# siempre lee de entrada.csv, siempre escupe a matriz y a archivob
+# cuando cambias el set de datos tenés que correr inicializador.py
+
 import csv
 import numpy
 import random
@@ -43,6 +48,7 @@ class Pola:
 		y = 1 if img1.label == img2.label else -1
 		perdida = self.perdida(img1,img2,y)
 		if perdida>0 :
+			global correcciones
 			correcciones += 1
 			v = img1.representacion - img2.representacion
 			alfa = perdida/(1+numpy.linalg.norm(v)**4)
