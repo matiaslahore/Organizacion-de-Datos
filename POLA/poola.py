@@ -123,6 +123,7 @@ else:
 			#guardar b
 			archivob = open("archivob","w")
 			archivob.write(str(pola.b))
+			archivob.close()
 
 	#guardar la matriz
 	numpy.savetxt('matriz',pola.matriz,delimiter=',')
@@ -130,3 +131,4 @@ else:
 	#guardar b
 	archivob = open("archivob","w")
 	archivob.write(str(pola.b))
+	archivob.close()
