@@ -87,7 +87,7 @@ int main(int argc, char* argv[]){
 			Matriz m,g;
 			m.setIdentity();//initialize with the identity matrix
 			ConjuntoActiveSets posibles_activos, activos, anteriores;//initialize active sets
-			//neighbors.calcularG0(g);//initialize gradient
+			neighbors.calcularG0(g);//initialize gradient
 			
 			
 			
