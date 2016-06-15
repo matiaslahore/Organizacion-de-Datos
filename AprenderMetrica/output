@@ -1,0 +1,5007 @@
+DIMENSIONES A LEER: 164
+5
+milnumerossvd.csv
+neighbors.txt
+1000
+Recalculando target neighbours
+Dimensiones: 164
+-1
+
+Procesadas: 0%Segundos estimados:-nanHoras: -nan
+-1
+
+Procesadas: 0.1%Segundos estimados:0Horas: 0
+-1
+
+Procesadas: 0.2%Segundos estimados:0Horas: 0
+-1
+
+Procesadas: 0.3%Segundos estimados:0Horas: 0
+-1
+
+Procesadas: 0.4%Segundos estimados:0Horas: 0
+-1
+
+Procesadas: 0.5%Segundos estimados:0Horas: 0
+-1
+
+Procesadas: 0.6%Segundos estimados:0Horas: 0
+-1
+
+Procesadas: 0.7%Segundos estimados:0Horas: 0
+-1
+
+Procesadas: 0.8%Segundos estimados:0Horas: 0
+-1
+
+Procesadas: 0.9%Segundos estimados:0Horas: 0
+-1
+
+Procesadas: 1%Segundos estimados:0Horas: 0
+-1
+
+Procesadas: 1.1%Segundos estimados:0Horas: 0
+-1
+
+Procesadas: 1.2%Segundos estimados:0Horas: 0
+-1
+
+Procesadas: 1.3%Segundos estimados:0Horas: 0
+-1
+
+Procesadas: 1.4%Segundos estimados:0Horas: 0
+-1
+
+Procesadas: 1.5%Segundos estimados:0Horas: 0
+-1
+
+Procesadas: 1.6%Segundos estimados:0Horas: 0
+-1
+
+Procesadas: 1.7%Segundos estimados:0Horas: 0
+-1
+
+Procesadas: 1.8%Segundos estimados:0Horas: 0
+-1
+
+Procesadas: 1.9%Segundos estimados:0Horas: 0
+-1
+
+Procesadas: 2%Segundos estimados:0Horas: 0
+-1
+
+Procesadas: 2.1%Segundos estimados:0Horas: 0
+-1
+
+Procesadas: 2.2%Segundos estimados:0Horas: 0
+-1
+
+Procesadas: 2.3%Segundos estimados:0.434783Horas: 0.000120773
+-1
+
+Procesadas: 2.4%Segundos estimados:0.416667Horas: 0.000115741
+-1
+
+Procesadas: 2.5%Segundos estimados:0.4Horas: 0.000111111
+-1
+
+Procesadas: 2.6%Segundos estimados:0.384615Horas: 0.000106838
+-1
+
+Procesadas: 2.7%Segundos estimados:0.37037Horas: 0.000102881
+-1
+
+Procesadas: 2.8%Segundos estimados:0.357143Horas: 9.92063e-05
+-1
+
+Procesadas: 2.9%Segundos estimados:0.344828Horas: 9.57854e-05
+-1
+
+Procesadas: 3%Segundos estimados:0.333333Horas: 9.25926e-05
+-1
+
+Procesadas: 3.1%Segundos estimados:0.322581Horas: 8.96057e-05
+-1
+
+Procesadas: 3.2%Segundos estimados:0.3125Horas: 8.68056e-05
+-1
+
+Procesadas: 3.3%Segundos estimados:0.30303Horas: 8.41751e-05
+-1
+
+Procesadas: 3.4%Segundos estimados:0.294118Horas: 8.16993e-05
+-1
+
+Procesadas: 3.5%Segundos estimados:0.285714Horas: 7.93651e-05
+-1
+
+Procesadas: 3.6%Segundos estimados:0.277778Horas: 7.71605e-05
+-1
+
+Procesadas: 3.7%Segundos estimados:0.27027Horas: 7.50751e-05
+-1
+
+Procesadas: 3.8%Segundos estimados:0.263158Horas: 7.30994e-05
+-1
+
+Procesadas: 3.9%Segundos estimados:0.25641Horas: 7.12251e-05
+-1
+
+Procesadas: 4%Segundos estimados:0.25Horas: 6.94444e-05
+-1
+
+Procesadas: 4.1%Segundos estimados:0.243902Horas: 6.77507e-05
+-1
+
+Procesadas: 4.2%Segundos estimados:0.238095Horas: 6.61376e-05
+-1
+
+Procesadas: 4.3%Segundos estimados:0.232558Horas: 6.45995e-05
+-1
+
+Procesadas: 4.4%Segundos estimados:0.227273Horas: 6.31313e-05
+-1
+
+Procesadas: 4.5%Segundos estimados:0.222222Horas: 6.17284e-05
+-1
+
+Procesadas: 4.6%Segundos estimados:0.217391Horas: 6.03865e-05
+-1
+
+Procesadas: 4.7%Segundos estimados:0.212766Horas: 5.91017e-05
+-1
+
+Procesadas: 4.8%Segundos estimados:0.208333Horas: 5.78704e-05
+-1
+
+Procesadas: 4.9%Segundos estimados:0.204082Horas: 5.66893e-05
+-1
+
+Procesadas: 5%Segundos estimados:0.2Horas: 5.55556e-05
+-1
+
+Procesadas: 5.1%Segundos estimados:0.196078Horas: 5.44662e-05
+-1
+
+Procesadas: 5.2%Segundos estimados:0.192308Horas: 5.34188e-05
+-1
+
+Procesadas: 5.3%Segundos estimados:0.188679Horas: 5.24109e-05
+-1
+
+Procesadas: 5.4%Segundos estimados:0.185185Horas: 5.14403e-05
+-1
+
+Procesadas: 5.5%Segundos estimados:0.181818Horas: 5.0505e-05
+-1
+
+Procesadas: 5.6%Segundos estimados:0.178571Horas: 4.96032e-05
+-1
+
+Procesadas: 5.7%Segundos estimados:0.175439Horas: 4.87329e-05
+-1
+
+Procesadas: 5.8%Segundos estimados:0.172414Horas: 4.78927e-05
+-1
+
+Procesadas: 5.9%Segundos estimados:0.169492Horas: 4.7081e-05
+-1
+
+Procesadas: 6%Segundos estimados:0.166667Horas: 4.62963e-05
+-1
+
+Procesadas: 6.1%Segundos estimados:0.163934Horas: 4.55373e-05
+-1
+
+Procesadas: 6.2%Segundos estimados:0.16129Horas: 4.48029e-05
+-1
+
+Procesadas: 6.3%Segundos estimados:0.15873Horas: 4.40917e-05
+-1
+
+Procesadas: 6.4%Segundos estimados:0.15625Horas: 4.34028e-05
+-1
+
+Procesadas: 6.5%Segundos estimados:0.307692Horas: 8.54701e-05
+-1
+
+Procesadas: 6.6%Segundos estimados:0.30303Horas: 8.41751e-05
+-1
+
+Procesadas: 6.7%Segundos estimados:0.298507Horas: 8.29187e-05
+-1
+
+Procesadas: 6.8%Segundos estimados:0.294118Horas: 8.16993e-05
+-1
+
+Procesadas: 6.9%Segundos estimados:0.289855Horas: 8.05153e-05
+-1
+
+Procesadas: 7%Segundos estimados:0.285714Horas: 7.93651e-05
+-1
+
+Procesadas: 7.1%Segundos estimados:0.28169Horas: 7.82473e-05
+-1
+
+Procesadas: 7.2%Segundos estimados:0.277778Horas: 7.71605e-05
+-1
+
+Procesadas: 7.3%Segundos estimados:0.273973Horas: 7.61035e-05
+-1
+
+Procesadas: 7.4%Segundos estimados:0.27027Horas: 7.50751e-05
+-1
+
+Procesadas: 7.5%Segundos estimados:0.266667Horas: 7.40741e-05
+-1
+
+Procesadas: 7.6%Segundos estimados:0.263158Horas: 7.30994e-05
+-1
+
+Procesadas: 7.7%Segundos estimados:0.25974Horas: 7.21501e-05
+-1
+
+Procesadas: 7.8%Segundos estimados:0.25641Horas: 7.12251e-05
+-1
+
+Procesadas: 7.9%Segundos estimados:0.253165Horas: 7.03235e-05
+-1
+
+Procesadas: 8%Segundos estimados:0.25Horas: 6.94444e-05
+-1
+
+Procesadas: 8.1%Segundos estimados:0.246914Horas: 6.85871e-05
+-1
+
+Procesadas: 8.2%Segundos estimados:0.243902Horas: 6.77507e-05
+-1
+
+Procesadas: 8.3%Segundos estimados:0.240964Horas: 6.69344e-05
+-1
+
+Procesadas: 8.4%Segundos estimados:0.238095Horas: 6.61376e-05
+-1
+
+Procesadas: 8.5%Segundos estimados:0.235294Horas: 6.53595e-05
+-1
+
+Procesadas: 8.6%Segundos estimados:0.232558Horas: 6.45995e-05
+-1
+
+Procesadas: 8.7%Segundos estimados:0.229885Horas: 6.3857e-05
+-1
+
+Procesadas: 8.8%Segundos estimados:0.227273Horas: 6.31313e-05
+-1
+
+Procesadas: 8.9%Segundos estimados:0.224719Horas: 6.2422e-05
+-1
+
+Procesadas: 9%Segundos estimados:0.222222Horas: 6.17284e-05
+-1
+
+Procesadas: 9.1%Segundos estimados:0.21978Horas: 6.10501e-05
+-1
+
+Procesadas: 9.2%Segundos estimados:0.217391Horas: 6.03865e-05
+-1
+
+Procesadas: 9.3%Segundos estimados:0.322581Horas: 8.96057e-05
+-1
+
+Procesadas: 9.4%Segundos estimados:0.319149Horas: 8.86525e-05
+-1
+
+Procesadas: 9.5%Segundos estimados:0.315789Horas: 8.77193e-05
+-1
+
+Procesadas: 9.6%Segundos estimados:0.3125Horas: 8.68056e-05
+-1
+
+Procesadas: 9.7%Segundos estimados:0.309278Horas: 8.59107e-05
+-1
+
+Procesadas: 9.8%Segundos estimados:0.306122Horas: 8.5034e-05
+-1
+
+Procesadas: 9.9%Segundos estimados:0.30303Horas: 8.41751e-05
+-1
+
+Procesadas: 10%Segundos estimados:0.3Horas: 8.33333e-05
+-1
+
+Procesadas: 10.1%Segundos estimados:0.29703Horas: 8.25082e-05
+-1
+
+Procesadas: 10.2%Segundos estimados:0.294118Horas: 8.16993e-05
+-1
+
+Procesadas: 10.3%Segundos estimados:0.291262Horas: 8.09061e-05
+-1
+
+Procesadas: 10.4%Segundos estimados:0.288462Horas: 8.01282e-05
+-1
+
+Procesadas: 10.5%Segundos estimados:0.285714Horas: 7.93651e-05
+-1
+
+Procesadas: 10.6%Segundos estimados:0.283019Horas: 7.86164e-05
+-1
+
+Procesadas: 10.7%Segundos estimados:0.280374Horas: 7.78816e-05
+-1
+
+Procesadas: 10.8%Segundos estimados:0.277778Horas: 7.71605e-05
+-1
+
+Procesadas: 10.9%Segundos estimados:0.275229Horas: 7.64526e-05
+-1
+
+Procesadas: 11%Segundos estimados:0.272727Horas: 7.57576e-05
+-1
+
+Procesadas: 11.1%Segundos estimados:0.27027Horas: 7.50751e-05
+-1
+
+Procesadas: 11.2%Segundos estimados:0.267857Horas: 7.44048e-05
+-1
+
+Procesadas: 11.3%Segundos estimados:0.265487Horas: 7.37463e-05
+-1
+
+Procesadas: 11.4%Segundos estimados:0.263158Horas: 7.30994e-05
+-1
+
+Procesadas: 11.5%Segundos estimados:0.26087Horas: 7.24638e-05
+-1
+
+Procesadas: 11.6%Segundos estimados:0.258621Horas: 7.18391e-05
+-1
+
+Procesadas: 11.7%Segundos estimados:0.25641Horas: 7.12251e-05
+-1
+
+Procesadas: 11.8%Segundos estimados:0.254237Horas: 7.06215e-05
+-1
+
+Procesadas: 11.9%Segundos estimados:0.252101Horas: 7.0028e-05
+-1
+
+Procesadas: 12%Segundos estimados:0.25Horas: 6.94444e-05
+-1
+
+Procesadas: 12.1%Segundos estimados:0.247934Horas: 6.88705e-05
+-1
+
+Procesadas: 12.2%Segundos estimados:0.245902Horas: 6.8306e-05
+-1
+
+Procesadas: 12.3%Segundos estimados:0.243902Horas: 6.77507e-05
+-1
+
+Procesadas: 12.4%Segundos estimados:0.241935Horas: 6.72043e-05
+-1
+
+Procesadas: 12.5%Segundos estimados:0.24Horas: 6.66667e-05
+-1
+
+Procesadas: 12.6%Segundos estimados:0.238095Horas: 6.61376e-05
+-1
+
+Procesadas: 12.7%Segundos estimados:0.23622Horas: 6.56168e-05
+-1
+
+Procesadas: 12.8%Segundos estimados:0.234375Horas: 6.51042e-05
+-1
+
+Procesadas: 12.9%Segundos estimados:0.232558Horas: 6.45995e-05
+-1
+
+Procesadas: 13%Segundos estimados:0.230769Horas: 6.41026e-05
+-1
+
+Procesadas: 13.1%Segundos estimados:0.229008Horas: 6.36132e-05
+-1
+
+Procesadas: 13.2%Segundos estimados:0.227273Horas: 6.31313e-05
+-1
+
+Procesadas: 13.3%Segundos estimados:0.225564Horas: 6.26566e-05
+-1
+
+Procesadas: 13.4%Segundos estimados:0.298507Horas: 8.29187e-05
+-1
+
+Procesadas: 13.5%Segundos estimados:0.296296Horas: 8.23045e-05
+-1
+
+Procesadas: 13.6%Segundos estimados:0.294118Horas: 8.16993e-05
+-1
+
+Procesadas: 13.7%Segundos estimados:0.291971Horas: 8.1103e-05
+-1
+
+Procesadas: 13.8%Segundos estimados:0.289855Horas: 8.05153e-05
+-1
+
+Procesadas: 13.9%Segundos estimados:0.28777Horas: 7.99361e-05
+-1
+
+Procesadas: 14%Segundos estimados:0.285714Horas: 7.93651e-05
+-1
+
+Procesadas: 14.1%Segundos estimados:0.283688Horas: 7.88022e-05
+-1
+
+Procesadas: 14.2%Segundos estimados:0.28169Horas: 7.82473e-05
+-1
+
+Procesadas: 14.3%Segundos estimados:0.27972Horas: 7.77001e-05
+-1
+
+Procesadas: 14.4%Segundos estimados:0.277778Horas: 7.71605e-05
+-1
+
+Procesadas: 14.5%Segundos estimados:0.275862Horas: 7.66284e-05
+-1
+
+Procesadas: 14.6%Segundos estimados:0.273973Horas: 7.61035e-05
+-1
+
+Procesadas: 14.7%Segundos estimados:0.272109Horas: 7.55858e-05
+-1
+
+Procesadas: 14.8%Segundos estimados:0.27027Horas: 7.50751e-05
+-1
+
+Procesadas: 14.9%Segundos estimados:0.268456Horas: 7.45712e-05
+-1
+
+Procesadas: 15%Segundos estimados:0.266667Horas: 7.40741e-05
+-1
+
+Procesadas: 15.1%Segundos estimados:0.264901Horas: 7.35835e-05
+-1
+
+Procesadas: 15.2%Segundos estimados:0.263158Horas: 7.30994e-05
+-1
+
+Procesadas: 15.3%Segundos estimados:0.261438Horas: 7.26216e-05
+-1
+
+Procesadas: 15.4%Segundos estimados:0.25974Horas: 7.21501e-05
+-1
+
+Procesadas: 15.5%Segundos estimados:0.258065Horas: 7.16846e-05
+-1
+
+Procesadas: 15.6%Segundos estimados:0.25641Horas: 7.12251e-05
+-1
+
+Procesadas: 15.7%Segundos estimados:0.254777Horas: 7.07714e-05
+-1
+
+Procesadas: 15.8%Segundos estimados:0.253165Horas: 7.03235e-05
+-1
+
+Procesadas: 15.9%Segundos estimados:0.251572Horas: 6.98812e-05
+-1
+
+Procesadas: 16%Segundos estimados:0.25Horas: 6.94444e-05
+-1
+
+Procesadas: 16.1%Segundos estimados:0.310559Horas: 8.62664e-05
+-1
+
+Procesadas: 16.2%Segundos estimados:0.308642Horas: 8.57339e-05
+-1
+
+Procesadas: 16.3%Segundos estimados:0.306748Horas: 8.52079e-05
+-1
+
+Procesadas: 16.4%Segundos estimados:0.304878Horas: 8.46883e-05
+-1
+
+Procesadas: 16.5%Segundos estimados:0.30303Horas: 8.41751e-05
+-1
+
+Procesadas: 16.6%Segundos estimados:0.301205Horas: 8.3668e-05
+-1
+
+Procesadas: 16.7%Segundos estimados:0.299401Horas: 8.3167e-05
+-1
+
+Procesadas: 16.8%Segundos estimados:0.297619Horas: 8.2672e-05
+-1
+
+Procesadas: 16.9%Segundos estimados:0.295858Horas: 8.21828e-05
+-1
+
+Procesadas: 17%Segundos estimados:0.294118Horas: 8.16993e-05
+-1
+
+Procesadas: 17.1%Segundos estimados:0.292398Horas: 8.12216e-05
+-1
+
+Procesadas: 17.2%Segundos estimados:0.290698Horas: 8.07493e-05
+-1
+
+Procesadas: 17.3%Segundos estimados:0.289017Horas: 8.02826e-05
+-1
+
+Procesadas: 17.4%Segundos estimados:0.287356Horas: 7.98212e-05
+-1
+
+Procesadas: 17.5%Segundos estimados:0.342857Horas: 9.52381e-05
+-1
+
+Procesadas: 17.6%Segundos estimados:0.340909Horas: 9.4697e-05
+-1
+
+Procesadas: 17.7%Segundos estimados:0.338983Horas: 9.4162e-05
+-1
+
+Procesadas: 17.8%Segundos estimados:0.337079Horas: 9.3633e-05
+-1
+
+Procesadas: 17.9%Segundos estimados:0.335196Horas: 9.31099e-05
+-1
+
+Procesadas: 18%Segundos estimados:0.333333Horas: 9.25926e-05
+-1
+
+Procesadas: 18.1%Segundos estimados:0.331492Horas: 9.2081e-05
+-1
+
+Procesadas: 18.2%Segundos estimados:0.32967Horas: 9.15751e-05
+-1
+
+Procesadas: 18.3%Segundos estimados:0.327869Horas: 9.10747e-05
+-1
+
+Procesadas: 18.4%Segundos estimados:0.326087Horas: 9.05797e-05
+-1
+
+Procesadas: 18.5%Segundos estimados:0.324324Horas: 9.00901e-05
+-1
+
+Procesadas: 18.6%Segundos estimados:0.322581Horas: 8.96057e-05
+-1
+
+Procesadas: 18.7%Segundos estimados:0.320856Horas: 8.91266e-05
+-1
+
+Procesadas: 18.8%Segundos estimados:0.319149Horas: 8.86525e-05
+-1
+
+Procesadas: 18.9%Segundos estimados:0.31746Horas: 8.81834e-05
+-1
+
+Procesadas: 19%Segundos estimados:0.315789Horas: 8.77193e-05
+-1
+
+Procesadas: 19.1%Segundos estimados:0.314136Horas: 8.726e-05
+-1
+
+Procesadas: 19.2%Segundos estimados:0.3125Horas: 8.68056e-05
+-1
+
+Procesadas: 19.3%Segundos estimados:0.310881Horas: 8.63558e-05
+-1
+
+Procesadas: 19.4%Segundos estimados:0.309278Horas: 8.59107e-05
+-1
+
+Procesadas: 19.5%Segundos estimados:0.307692Horas: 8.54701e-05
+-1
+
+Procesadas: 19.6%Segundos estimados:0.306122Horas: 8.5034e-05
+-1
+
+Procesadas: 19.7%Segundos estimados:0.304569Horas: 8.46024e-05
+-1
+
+Procesadas: 19.8%Segundos estimados:0.30303Horas: 8.41751e-05
+-1
+
+Procesadas: 19.9%Segundos estimados:0.301508Horas: 8.37521e-05
+-1
+
+Procesadas: 20%Segundos estimados:0.3Horas: 8.33333e-05
+-1
+
+Procesadas: 20.1%Segundos estimados:0.298507Horas: 8.29187e-05
+-1
+
+Procesadas: 20.2%Segundos estimados:0.29703Horas: 8.25082e-05
+-1
+
+Procesadas: 20.3%Segundos estimados:0.295566Horas: 8.21018e-05
+-1
+
+Procesadas: 20.4%Segundos estimados:0.294118Horas: 8.16993e-05
+-1
+
+Procesadas: 20.5%Segundos estimados:0.292683Horas: 8.13008e-05
+-1
+
+Procesadas: 20.6%Segundos estimados:0.291262Horas: 8.09061e-05
+-1
+
+Procesadas: 20.7%Segundos estimados:0.289855Horas: 8.05153e-05
+-1
+
+Procesadas: 20.8%Segundos estimados:0.288462Horas: 8.01282e-05
+-1
+
+Procesadas: 20.9%Segundos estimados:0.287081Horas: 7.97448e-05
+-1
+
+Procesadas: 21%Segundos estimados:0.285714Horas: 7.93651e-05
+-1
+
+Procesadas: 21.1%Segundos estimados:0.28436Horas: 7.89889e-05
+-1
+
+Procesadas: 21.2%Segundos estimados:0.283019Horas: 7.86164e-05
+-1
+
+Procesadas: 21.3%Segundos estimados:0.28169Horas: 7.82473e-05
+-1
+
+Procesadas: 21.4%Segundos estimados:0.280374Horas: 7.78816e-05
+-1
+
+Procesadas: 21.5%Segundos estimados:0.27907Horas: 7.75194e-05
+-1
+
+Procesadas: 21.6%Segundos estimados:0.277778Horas: 7.71605e-05
+-1
+
+Procesadas: 21.7%Segundos estimados:0.322581Horas: 8.96057e-05
+-1
+
+Procesadas: 21.8%Segundos estimados:0.321101Horas: 8.91947e-05
+-1
+
+Procesadas: 21.9%Segundos estimados:0.319635Horas: 8.87874e-05
+-1
+
+Procesadas: 22%Segundos estimados:0.318182Horas: 8.83838e-05
+-1
+
+Procesadas: 22.1%Segundos estimados:0.316742Horas: 8.79839e-05
+-1
+
+Procesadas: 22.2%Segundos estimados:0.315315Horas: 8.75876e-05
+-1
+
+Procesadas: 22.3%Segundos estimados:0.313901Horas: 8.71948e-05
+-1
+
+Procesadas: 22.4%Segundos estimados:0.3125Horas: 8.68056e-05
+-1
+
+Procesadas: 22.5%Segundos estimados:0.311111Horas: 8.64198e-05
+-1
+
+Procesadas: 22.6%Segundos estimados:0.309735Horas: 8.60374e-05
+-1
+
+Procesadas: 22.7%Segundos estimados:0.30837Horas: 8.56584e-05
+-1
+
+Procesadas: 22.8%Segundos estimados:0.307018Horas: 8.52826e-05
+-1
+
+Procesadas: 22.9%Segundos estimados:0.305677Horas: 8.49102e-05
+-1
+
+Procesadas: 23%Segundos estimados:0.304348Horas: 8.45411e-05
+-1
+
+Procesadas: 23.1%Segundos estimados:0.30303Horas: 8.41751e-05
+-1
+
+Procesadas: 23.2%Segundos estimados:0.301724Horas: 8.38123e-05
+-1
+
+Procesadas: 23.3%Segundos estimados:0.300429Horas: 8.34526e-05
+-1
+
+Procesadas: 23.4%Segundos estimados:0.299145Horas: 8.30959e-05
+-1
+
+Procesadas: 23.5%Segundos estimados:0.297872Horas: 8.27423e-05
+-1
+
+Procesadas: 23.6%Segundos estimados:0.29661Horas: 8.23917e-05
+-1
+
+Procesadas: 23.7%Segundos estimados:0.295359Horas: 8.20441e-05
+-1
+
+Procesadas: 23.8%Segundos estimados:0.294118Horas: 8.16993e-05
+-1
+
+Procesadas: 23.9%Segundos estimados:0.292887Horas: 8.13575e-05
+-1
+
+Procesadas: 24%Segundos estimados:0.291667Horas: 8.10185e-05
+-1
+
+Procesadas: 24.1%Segundos estimados:0.290456Horas: 8.06823e-05
+-1
+
+Procesadas: 24.2%Segundos estimados:0.289256Horas: 8.03489e-05
+-1
+
+Procesadas: 24.3%Segundos estimados:0.288066Horas: 8.00183e-05
+-1
+
+Procesadas: 24.4%Segundos estimados:0.286885Horas: 7.96903e-05
+-1
+
+Procesadas: 24.5%Segundos estimados:0.285714Horas: 7.93651e-05
+-1
+
+Procesadas: 24.6%Segundos estimados:0.284553Horas: 7.90425e-05
+-1
+
+Procesadas: 24.7%Segundos estimados:0.283401Horas: 7.87224e-05
+-1
+
+Procesadas: 24.8%Segundos estimados:0.282258Horas: 7.8405e-05
+-1
+
+Procesadas: 24.9%Segundos estimados:0.281125Horas: 7.80901e-05
+-1
+
+Procesadas: 25%Segundos estimados:0.28Horas: 7.77778e-05
+-1
+
+Procesadas: 25.1%Segundos estimados:0.278884Horas: 7.74679e-05
+-1
+
+Procesadas: 25.2%Segundos estimados:0.277778Horas: 7.71605e-05
+-1
+
+Procesadas: 25.3%Segundos estimados:0.27668Horas: 7.68555e-05
+-1
+
+Procesadas: 25.4%Segundos estimados:0.275591Horas: 7.65529e-05
+-1
+
+Procesadas: 25.5%Segundos estimados:0.27451Horas: 7.62527e-05
+-1
+
+Procesadas: 25.6%Segundos estimados:0.273438Horas: 7.59549e-05
+-1
+
+Procesadas: 25.7%Segundos estimados:0.272374Horas: 7.56593e-05
+-1
+
+Procesadas: 25.8%Segundos estimados:0.310078Horas: 8.61326e-05
+-1
+
+Procesadas: 25.9%Segundos estimados:0.30888Horas: 8.58001e-05
+-1
+
+Procesadas: 26%Segundos estimados:0.307692Horas: 8.54701e-05
+-1
+
+Procesadas: 26.1%Segundos estimados:0.306513Horas: 8.51426e-05
+-1
+
+Procesadas: 26.2%Segundos estimados:0.305344Horas: 8.48176e-05
+-1
+
+Procesadas: 26.3%Segundos estimados:0.304182Horas: 8.44951e-05
+-1
+
+Procesadas: 26.4%Segundos estimados:0.30303Horas: 8.41751e-05
+-1
+
+Procesadas: 26.5%Segundos estimados:0.301887Horas: 8.38574e-05
+-1
+
+Procesadas: 26.6%Segundos estimados:0.300752Horas: 8.35422e-05
+-1
+
+Procesadas: 26.7%Segundos estimados:0.299625Horas: 8.32293e-05
+-1
+
+Procesadas: 26.8%Segundos estimados:0.298507Horas: 8.29187e-05
+-1
+
+Procesadas: 26.9%Segundos estimados:0.297398Horas: 8.26105e-05
+-1
+
+Procesadas: 27%Segundos estimados:0.296296Horas: 8.23045e-05
+-1
+
+Procesadas: 27.1%Segundos estimados:0.295203Horas: 8.20008e-05
+-1
+
+Procesadas: 27.2%Segundos estimados:0.294118Horas: 8.16993e-05
+-1
+
+Procesadas: 27.3%Segundos estimados:0.29304Horas: 8.14001e-05
+-1
+
+Procesadas: 27.4%Segundos estimados:0.291971Horas: 8.1103e-05
+-1
+
+Procesadas: 27.5%Segundos estimados:0.290909Horas: 8.08081e-05
+-1
+
+Procesadas: 27.6%Segundos estimados:0.289855Horas: 8.05153e-05
+-1
+
+Procesadas: 27.7%Segundos estimados:0.288809Horas: 8.02246e-05
+-1
+
+Procesadas: 27.8%Segundos estimados:0.28777Horas: 7.99361e-05
+-1
+
+Procesadas: 27.9%Segundos estimados:0.286738Horas: 7.96495e-05
+-1
+
+Procesadas: 28%Segundos estimados:0.285714Horas: 7.93651e-05
+-1
+
+Procesadas: 28.1%Segundos estimados:0.284698Horas: 7.90826e-05
+-1
+
+Procesadas: 28.2%Segundos estimados:0.283688Horas: 7.88022e-05
+-1
+
+Procesadas: 28.3%Segundos estimados:0.282686Horas: 7.85238e-05
+-1
+
+Procesadas: 28.4%Segundos estimados:0.28169Horas: 7.82473e-05
+-1
+
+Procesadas: 28.5%Segundos estimados:0.280702Horas: 7.79727e-05
+-1
+
+Procesadas: 28.6%Segundos estimados:0.27972Horas: 7.77001e-05
+-1
+
+Procesadas: 28.7%Segundos estimados:0.278746Horas: 7.74293e-05
+-1
+
+Procesadas: 28.8%Segundos estimados:0.277778Horas: 7.71605e-05
+-1
+
+Procesadas: 28.9%Segundos estimados:0.276817Horas: 7.68935e-05
+-1
+
+Procesadas: 29%Segundos estimados:0.275862Horas: 7.66284e-05
+-1
+
+Procesadas: 29.1%Segundos estimados:0.274914Horas: 7.6365e-05
+-1
+
+Procesadas: 29.2%Segundos estimados:0.273973Horas: 7.61035e-05
+-1
+
+Procesadas: 29.3%Segundos estimados:0.273038Horas: 7.58438e-05
+-1
+
+Procesadas: 29.4%Segundos estimados:0.272109Horas: 7.55858e-05
+-1
+
+Procesadas: 29.5%Segundos estimados:0.271186Horas: 7.53296e-05
+-1
+
+Procesadas: 29.6%Segundos estimados:0.27027Horas: 7.50751e-05
+-1
+
+Procesadas: 29.7%Segundos estimados:0.26936Horas: 7.48223e-05
+-1
+
+Procesadas: 29.8%Segundos estimados:0.268456Horas: 7.45712e-05
+-1
+
+Procesadas: 29.9%Segundos estimados:0.267559Horas: 7.43218e-05
+-1
+
+Procesadas: 30%Segundos estimados:0.3Horas: 8.33333e-05
+-1
+
+Procesadas: 30.1%Segundos estimados:0.299003Horas: 8.30565e-05
+-1
+
+Procesadas: 30.2%Segundos estimados:0.298013Horas: 8.27815e-05
+-1
+
+Procesadas: 30.3%Segundos estimados:0.29703Horas: 8.25083e-05
+-1
+
+Procesadas: 30.4%Segundos estimados:0.296053Horas: 8.22369e-05
+-1
+
+Procesadas: 30.5%Segundos estimados:0.295082Horas: 8.19672e-05
+-1
+
+Procesadas: 30.6%Segundos estimados:0.294118Horas: 8.16993e-05
+-1
+
+Procesadas: 30.7%Segundos estimados:0.29316Horas: 8.14332e-05
+-1
+
+Procesadas: 30.8%Segundos estimados:0.292208Horas: 8.11688e-05
+-1
+
+Procesadas: 30.9%Segundos estimados:0.291262Horas: 8.09062e-05
+-1
+
+Procesadas: 31%Segundos estimados:0.290323Horas: 8.06452e-05
+-1
+
+Procesadas: 31.1%Segundos estimados:0.289389Horas: 8.03859e-05
+-1
+
+Procesadas: 31.2%Segundos estimados:0.288462Horas: 8.01282e-05
+-1
+
+Procesadas: 31.3%Segundos estimados:0.28754Horas: 7.98722e-05
+-1
+
+Procesadas: 31.4%Segundos estimados:0.286624Horas: 7.96178e-05
+-1
+
+Procesadas: 31.5%Segundos estimados:0.285714Horas: 7.93651e-05
+-1
+
+Procesadas: 31.6%Segundos estimados:0.28481Horas: 7.91139e-05
+-1
+
+Procesadas: 31.7%Segundos estimados:0.283912Horas: 7.88644e-05
+-1
+
+Procesadas: 31.8%Segundos estimados:0.283019Horas: 7.86164e-05
+-1
+
+Procesadas: 31.9%Segundos estimados:0.282132Horas: 7.83699e-05
+-1
+
+Procesadas: 32%Segundos estimados:0.28125Horas: 7.8125e-05
+-1
+
+Procesadas: 32.1%Segundos estimados:0.280374Horas: 7.78816e-05
+-1
+
+Procesadas: 32.2%Segundos estimados:0.279503Horas: 7.76398e-05
+-1
+
+Procesadas: 32.3%Segundos estimados:0.278638Horas: 7.73994e-05
+-1
+
+Procesadas: 32.4%Segundos estimados:0.277778Horas: 7.71605e-05
+-1
+
+Procesadas: 32.5%Segundos estimados:0.276923Horas: 7.69231e-05
+-1
+
+Procesadas: 32.6%Segundos estimados:0.276074Horas: 7.66871e-05
+-1
+
+Procesadas: 32.7%Segundos estimados:0.30581Horas: 8.49473e-05
+-1
+
+Procesadas: 32.8%Segundos estimados:0.304878Horas: 8.46883e-05
+-1
+
+Procesadas: 32.9%Segundos estimados:0.303951Horas: 8.44309e-05
+-1
+
+Procesadas: 33%Segundos estimados:0.30303Horas: 8.41751e-05
+-1
+
+Procesadas: 33.1%Segundos estimados:0.302115Horas: 8.39208e-05
+-1
+
+Procesadas: 33.2%Segundos estimados:0.301205Horas: 8.3668e-05
+-1
+
+Procesadas: 33.3%Segundos estimados:0.3003Horas: 8.34168e-05
+-1
+
+Procesadas: 33.4%Segundos estimados:0.299401Horas: 8.3167e-05
+-1
+
+Procesadas: 33.5%Segundos estimados:0.298507Horas: 8.29187e-05
+-1
+
+Procesadas: 33.6%Segundos estimados:0.297619Horas: 8.2672e-05
+-1
+
+Procesadas: 33.7%Segundos estimados:0.296736Horas: 8.24266e-05
+-1
+
+Procesadas: 33.8%Segundos estimados:0.295858Horas: 8.21828e-05
+-1
+
+Procesadas: 33.9%Segundos estimados:0.294985Horas: 8.19404e-05
+-1
+
+Procesadas: 34%Segundos estimados:0.294118Horas: 8.16993e-05
+-1
+
+Procesadas: 34.1%Segundos estimados:0.322581Horas: 8.96057e-05
+-1
+
+Procesadas: 34.2%Segundos estimados:0.321637Horas: 8.93437e-05
+-1
+
+Procesadas: 34.3%Segundos estimados:0.3207Horas: 8.90833e-05
+-1
+
+Procesadas: 34.4%Segundos estimados:0.319767Horas: 8.88243e-05
+-1
+
+Procesadas: 34.5%Segundos estimados:0.318841Horas: 8.85668e-05
+-1
+
+Procesadas: 34.6%Segundos estimados:0.317919Horas: 8.83109e-05
+-1
+
+Procesadas: 34.7%Segundos estimados:0.317003Horas: 8.80564e-05
+-1
+
+Procesadas: 34.8%Segundos estimados:0.316092Horas: 8.78033e-05
+-1
+
+Procesadas: 34.9%Segundos estimados:0.315186Horas: 8.75517e-05
+-1
+
+Procesadas: 35%Segundos estimados:0.314286Horas: 8.73016e-05
+-1
+
+Procesadas: 35.1%Segundos estimados:0.31339Horas: 8.70529e-05
+-1
+
+Procesadas: 35.2%Segundos estimados:0.3125Horas: 8.68056e-05
+-1
+
+Procesadas: 35.3%Segundos estimados:0.311615Horas: 8.65597e-05
+-1
+
+Procesadas: 35.4%Segundos estimados:0.310734Horas: 8.63151e-05
+-1
+
+Procesadas: 35.5%Segundos estimados:0.309859Horas: 8.6072e-05
+-1
+
+Procesadas: 35.6%Segundos estimados:0.308989Horas: 8.58302e-05
+-1
+
+Procesadas: 35.7%Segundos estimados:0.308123Horas: 8.55898e-05
+-1
+
+Procesadas: 35.8%Segundos estimados:0.307263Horas: 8.53507e-05
+-1
+
+Procesadas: 35.9%Segundos estimados:0.306407Horas: 8.5113e-05
+-1
+
+Procesadas: 36%Segundos estimados:0.305556Horas: 8.48765e-05
+-1
+
+Procesadas: 36.1%Segundos estimados:0.304709Horas: 8.46414e-05
+-1
+
+Procesadas: 36.2%Segundos estimados:0.303867Horas: 8.44076e-05
+-1
+
+Procesadas: 36.3%Segundos estimados:0.30303Horas: 8.41751e-05
+-1
+
+Procesadas: 36.4%Segundos estimados:0.302198Horas: 8.39438e-05
+-1
+
+Procesadas: 36.5%Segundos estimados:0.30137Horas: 8.37138e-05
+-1
+
+Procesadas: 36.6%Segundos estimados:0.300546Horas: 8.34851e-05
+-1
+
+Procesadas: 36.7%Segundos estimados:0.299727Horas: 8.32576e-05
+-1
+
+Procesadas: 36.8%Segundos estimados:0.298913Horas: 8.30314e-05
+-1
+
+Procesadas: 36.9%Segundos estimados:0.298103Horas: 8.28064e-05
+-1
+
+Procesadas: 37%Segundos estimados:0.297297Horas: 8.25826e-05
+-1
+
+Procesadas: 37.1%Segundos estimados:0.296496Horas: 8.236e-05
+-1
+
+Procesadas: 37.2%Segundos estimados:0.295699Horas: 8.21386e-05
+-1
+
+Procesadas: 37.3%Segundos estimados:0.294906Horas: 8.19184e-05
+-1
+
+Procesadas: 37.4%Segundos estimados:0.294118Horas: 8.16993e-05
+-1
+
+Procesadas: 37.5%Segundos estimados:0.293333Horas: 8.14815e-05
+-1
+
+Procesadas: 37.6%Segundos estimados:0.292553Horas: 8.12648e-05
+-1
+
+Procesadas: 37.7%Segundos estimados:0.291777Horas: 8.10492e-05
+-1
+
+Procesadas: 37.8%Segundos estimados:0.291005Horas: 8.08348e-05
+-1
+
+Procesadas: 37.9%Segundos estimados:0.290237Horas: 8.06215e-05
+-1
+
+Procesadas: 38%Segundos estimados:0.289474Horas: 8.04094e-05
+-1
+
+Procesadas: 38.1%Segundos estimados:0.288714Horas: 8.01983e-05
+-1
+
+Procesadas: 38.2%Segundos estimados:0.287958Horas: 7.99884e-05
+-1
+
+Procesadas: 38.3%Segundos estimados:0.287206Horas: 7.97795e-05
+-1
+
+Procesadas: 38.4%Segundos estimados:0.286458Horas: 7.95718e-05
+-1
+
+Procesadas: 38.5%Segundos estimados:0.285714Horas: 7.93651e-05
+-1
+
+Procesadas: 38.6%Segundos estimados:0.284974Horas: 7.91595e-05
+-1
+
+Procesadas: 38.7%Segundos estimados:0.284238Horas: 7.89549e-05
+-1
+
+Procesadas: 38.8%Segundos estimados:0.283505Horas: 7.87514e-05
+-1
+
+Procesadas: 38.9%Segundos estimados:0.282776Horas: 7.8549e-05
+-1
+
+Procesadas: 39%Segundos estimados:0.282051Horas: 7.83476e-05
+-1
+
+Procesadas: 39.1%Segundos estimados:0.28133Horas: 7.81472e-05
+-1
+
+Procesadas: 39.2%Segundos estimados:0.280612Horas: 7.79479e-05
+-1
+
+Procesadas: 39.3%Segundos estimados:0.279898Horas: 7.77495e-05
+-1
+
+Procesadas: 39.4%Segundos estimados:0.279188Horas: 7.75522e-05
+-1
+
+Procesadas: 39.5%Segundos estimados:0.278481Horas: 7.73558e-05
+-1
+
+Procesadas: 39.6%Segundos estimados:0.30303Horas: 8.41751e-05
+-1
+
+Procesadas: 39.7%Segundos estimados:0.302267Horas: 8.39631e-05
+-1
+
+Procesadas: 39.8%Segundos estimados:0.301508Horas: 8.37521e-05
+-1
+
+Procesadas: 39.9%Segundos estimados:0.300752Horas: 8.35422e-05
+-1
+
+Procesadas: 40%Segundos estimados:0.3Horas: 8.33333e-05
+-1
+
+Procesadas: 40.1%Segundos estimados:0.299252Horas: 8.31255e-05
+-1
+
+Procesadas: 40.2%Segundos estimados:0.298507Horas: 8.29187e-05
+-1
+
+Procesadas: 40.3%Segundos estimados:0.297767Horas: 8.2713e-05
+-1
+
+Procesadas: 40.4%Segundos estimados:0.29703Horas: 8.25082e-05
+-1
+
+Procesadas: 40.5%Segundos estimados:0.296296Horas: 8.23045e-05
+-1
+
+Procesadas: 40.6%Segundos estimados:0.295566Horas: 8.21018e-05
+-1
+
+Procesadas: 40.7%Segundos estimados:0.29484Horas: 8.19001e-05
+-1
+
+Procesadas: 40.8%Segundos estimados:0.294118Horas: 8.16993e-05
+-1
+
+Procesadas: 40.9%Segundos estimados:0.293399Horas: 8.14996e-05
+-1
+
+Procesadas: 41%Segundos estimados:0.292683Horas: 8.13008e-05
+-1
+
+Procesadas: 41.1%Segundos estimados:0.291971Horas: 8.1103e-05
+-1
+
+Procesadas: 41.2%Segundos estimados:0.291262Horas: 8.09061e-05
+-1
+
+Procesadas: 41.3%Segundos estimados:0.290557Horas: 8.07103e-05
+-1
+
+Procesadas: 41.4%Segundos estimados:0.289855Horas: 8.05153e-05
+-1
+
+Procesadas: 41.5%Segundos estimados:0.289157Horas: 8.03213e-05
+-1
+
+Procesadas: 41.6%Segundos estimados:0.288462Horas: 8.01282e-05
+-1
+
+Procesadas: 41.7%Segundos estimados:0.28777Horas: 7.99361e-05
+-1
+
+Procesadas: 41.8%Segundos estimados:0.287081Horas: 7.97448e-05
+-1
+
+Procesadas: 41.9%Segundos estimados:0.286396Horas: 7.95545e-05
+-1
+
+Procesadas: 42%Segundos estimados:0.285714Horas: 7.93651e-05
+-1
+
+Procesadas: 42.1%Segundos estimados:0.285036Horas: 7.91766e-05
+-1
+
+Procesadas: 42.2%Segundos estimados:0.28436Horas: 7.89889e-05
+-1
+
+Procesadas: 42.3%Segundos estimados:0.283688Horas: 7.88022e-05
+-1
+
+Procesadas: 42.4%Segundos estimados:0.306604Horas: 8.51677e-05
+-1
+
+Procesadas: 42.5%Segundos estimados:0.305882Horas: 8.49673e-05
+-1
+
+Procesadas: 42.6%Segundos estimados:0.305164Horas: 8.47679e-05
+-1
+
+Procesadas: 42.7%Segundos estimados:0.30445Horas: 8.45693e-05
+-1
+
+Procesadas: 42.8%Segundos estimados:0.303738Horas: 8.43717e-05
+-1
+
+Procesadas: 42.9%Segundos estimados:0.30303Horas: 8.41751e-05
+-1
+
+Procesadas: 43%Segundos estimados:0.302326Horas: 8.39793e-05
+-1
+
+Procesadas: 43.1%Segundos estimados:0.301624Horas: 8.37845e-05
+-1
+
+Procesadas: 43.2%Segundos estimados:0.300926Horas: 8.35905e-05
+-1
+
+Procesadas: 43.3%Segundos estimados:0.300231Horas: 8.33975e-05
+-1
+
+Procesadas: 43.4%Segundos estimados:0.299539Horas: 8.32053e-05
+-1
+
+Procesadas: 43.5%Segundos estimados:0.298851Horas: 8.3014e-05
+-1
+
+Procesadas: 43.6%Segundos estimados:0.298165Horas: 8.28237e-05
+-1
+
+Procesadas: 43.7%Segundos estimados:0.297483Horas: 8.26341e-05
+-1
+
+Procesadas: 43.8%Segundos estimados:0.296804Horas: 8.24455e-05
+-1
+
+Procesadas: 43.9%Segundos estimados:0.296128Horas: 8.22577e-05
+-1
+
+Procesadas: 44%Segundos estimados:0.295455Horas: 8.20707e-05
+-1
+
+Procesadas: 44.1%Segundos estimados:0.294785Horas: 8.18846e-05
+-1
+
+Procesadas: 44.2%Segundos estimados:0.294118Horas: 8.16993e-05
+-1
+
+Procesadas: 44.3%Segundos estimados:0.293454Horas: 8.15149e-05
+-1
+
+Procesadas: 44.4%Segundos estimados:0.292793Horas: 8.13313e-05
+-1
+
+Procesadas: 44.5%Segundos estimados:0.292135Horas: 8.11486e-05
+-1
+
+Procesadas: 44.6%Segundos estimados:0.29148Horas: 8.09666e-05
+-1
+
+Procesadas: 44.7%Segundos estimados:0.290828Horas: 8.07855e-05
+-1
+
+Procesadas: 44.8%Segundos estimados:0.290179Horas: 8.06051e-05
+-1
+
+Procesadas: 44.9%Segundos estimados:0.289532Horas: 8.04256e-05
+-1
+
+Procesadas: 45%Segundos estimados:0.288889Horas: 8.02469e-05
+-1
+
+Procesadas: 45.1%Segundos estimados:0.288248Horas: 8.0069e-05
+-1
+
+Procesadas: 45.2%Segundos estimados:0.287611Horas: 7.98918e-05
+-1
+
+Procesadas: 45.3%Segundos estimados:0.286976Horas: 7.97155e-05
+-1
+
+Procesadas: 45.4%Segundos estimados:0.286344Horas: 7.95399e-05
+-1
+
+Procesadas: 45.5%Segundos estimados:0.285714Horas: 7.93651e-05
+-1
+
+Procesadas: 45.6%Segundos estimados:0.285088Horas: 7.9191e-05
+-1
+
+Procesadas: 45.7%Segundos estimados:0.284464Horas: 7.90177e-05
+-1
+
+Procesadas: 45.8%Segundos estimados:0.283843Horas: 7.88452e-05
+-1
+
+Procesadas: 45.9%Segundos estimados:0.283224Horas: 7.86734e-05
+-1
+
+Procesadas: 46%Segundos estimados:0.282609Horas: 7.85024e-05
+-1
+
+Procesadas: 46.1%Segundos estimados:0.281996Horas: 7.83321e-05
+-1
+
+Procesadas: 46.2%Segundos estimados:0.281385Horas: 7.81626e-05
+-1
+
+Procesadas: 46.3%Segundos estimados:0.280778Horas: 7.79938e-05
+-1
+
+Procesadas: 46.4%Segundos estimados:0.280172Horas: 7.78257e-05
+-1
+
+Procesadas: 46.5%Segundos estimados:0.27957Horas: 7.76583e-05
+-1
+
+Procesadas: 46.6%Segundos estimados:0.300429Horas: 8.34526e-05
+-1
+
+Procesadas: 46.7%Segundos estimados:0.299786Horas: 8.32739e-05
+-1
+
+Procesadas: 46.8%Segundos estimados:0.299145Horas: 8.30959e-05
+-1
+
+Procesadas: 46.9%Segundos estimados:0.298507Horas: 8.29187e-05
+-1
+
+Procesadas: 47%Segundos estimados:0.297872Horas: 8.27423e-05
+-1
+
+Procesadas: 47.1%Segundos estimados:0.29724Horas: 8.25667e-05
+-1
+
+Procesadas: 47.2%Segundos estimados:0.29661Horas: 8.23917e-05
+-1
+
+Procesadas: 47.3%Segundos estimados:0.295983Horas: 8.22175e-05
+-1
+
+Procesadas: 47.4%Segundos estimados:0.295359Horas: 8.20441e-05
+-1
+
+Procesadas: 47.5%Segundos estimados:0.294737Horas: 8.18713e-05
+-1
+
+Procesadas: 47.6%Segundos estimados:0.294118Horas: 8.16993e-05
+-1
+
+Procesadas: 47.7%Segundos estimados:0.293501Horas: 8.15281e-05
+-1
+
+Procesadas: 47.8%Segundos estimados:0.292887Horas: 8.13575e-05
+-1
+
+Procesadas: 47.9%Segundos estimados:0.292276Horas: 8.11877e-05
+-1
+
+Procesadas: 48%Segundos estimados:0.291667Horas: 8.10185e-05
+-1
+
+Procesadas: 48.1%Segundos estimados:0.29106Horas: 8.08501e-05
+-1
+
+Procesadas: 48.2%Segundos estimados:0.290456Horas: 8.06823e-05
+-1
+
+Procesadas: 48.3%Segundos estimados:0.289855Horas: 8.05153e-05
+-1
+
+Procesadas: 48.4%Segundos estimados:0.289256Horas: 8.03489e-05
+-1
+
+Procesadas: 48.5%Segundos estimados:0.28866Horas: 8.01833e-05
+-1
+
+Procesadas: 48.6%Segundos estimados:0.288066Horas: 8.00183e-05
+-1
+
+Procesadas: 48.7%Segundos estimados:0.287474Horas: 7.9854e-05
+-1
+
+Procesadas: 48.8%Segundos estimados:0.286885Horas: 7.96903e-05
+-1
+
+Procesadas: 48.9%Segundos estimados:0.286299Horas: 7.95274e-05
+-1
+
+Procesadas: 49%Segundos estimados:0.285714Horas: 7.93651e-05
+-1
+
+Procesadas: 49.1%Segundos estimados:0.285132Horas: 7.92034e-05
+-1
+
+Procesadas: 49.2%Segundos estimados:0.284553Horas: 7.90425e-05
+-1
+
+Procesadas: 49.3%Segundos estimados:0.30426Horas: 8.45166e-05
+-1
+
+Procesadas: 49.4%Segundos estimados:0.303644Horas: 8.43455e-05
+-1
+
+Procesadas: 49.5%Segundos estimados:0.30303Horas: 8.41751e-05
+-1
+
+Procesadas: 49.6%Segundos estimados:0.302419Horas: 8.40054e-05
+-1
+
+Procesadas: 49.7%Segundos estimados:0.301811Horas: 8.38363e-05
+-1
+
+Procesadas: 49.8%Segundos estimados:0.301205Horas: 8.3668e-05
+-1
+
+Procesadas: 49.9%Segundos estimados:0.300601Horas: 8.35003e-05
+-1
+
+Procesadas: 50%Segundos estimados:0.3Horas: 8.33333e-05
+-1
+
+Procesadas: 50.1%Segundos estimados:0.299401Horas: 8.3167e-05
+-1
+
+Procesadas: 50.2%Segundos estimados:0.298805Horas: 8.30013e-05
+-1
+
+Procesadas: 50.3%Segundos estimados:0.298211Horas: 8.28363e-05
+-1
+
+Procesadas: 50.4%Segundos estimados:0.297619Horas: 8.2672e-05
+-1
+
+Procesadas: 50.5%Segundos estimados:0.29703Horas: 8.25083e-05
+-1
+
+Procesadas: 50.6%Segundos estimados:0.296443Horas: 8.23452e-05
+-1
+
+Procesadas: 50.7%Segundos estimados:0.295858Horas: 8.21828e-05
+-1
+
+Procesadas: 50.8%Segundos estimados:0.295276Horas: 8.2021e-05
+-1
+
+Procesadas: 50.9%Segundos estimados:0.294695Horas: 8.18599e-05
+-1
+
+Procesadas: 51%Segundos estimados:0.294118Horas: 8.16993e-05
+-1
+
+Procesadas: 51.1%Segundos estimados:0.293542Horas: 8.15395e-05
+-1
+
+Procesadas: 51.2%Segundos estimados:0.292969Horas: 8.13802e-05
+-1
+
+Procesadas: 51.3%Segundos estimados:0.292398Horas: 8.12216e-05
+-1
+
+Procesadas: 51.4%Segundos estimados:0.291829Horas: 8.10636e-05
+-1
+
+Procesadas: 51.5%Segundos estimados:0.291262Horas: 8.09062e-05
+-1
+
+Procesadas: 51.6%Segundos estimados:0.290698Horas: 8.07494e-05
+-1
+
+Procesadas: 51.7%Segundos estimados:0.290135Horas: 8.05932e-05
+-1
+
+Procesadas: 51.8%Segundos estimados:0.289575Horas: 8.04376e-05
+-1
+
+Procesadas: 51.9%Segundos estimados:0.289017Horas: 8.02826e-05
+-1
+
+Procesadas: 52%Segundos estimados:0.288462Horas: 8.01282e-05
+-1
+
+Procesadas: 52.1%Segundos estimados:0.287908Horas: 7.99744e-05
+-1
+
+Procesadas: 52.2%Segundos estimados:0.287356Horas: 7.98212e-05
+-1
+
+Procesadas: 52.3%Segundos estimados:0.286807Horas: 7.96686e-05
+-1
+
+Procesadas: 52.4%Segundos estimados:0.28626Horas: 7.95165e-05
+-1
+
+Procesadas: 52.5%Segundos estimados:0.285714Horas: 7.93651e-05
+-1
+
+Procesadas: 52.6%Segundos estimados:0.285171Horas: 7.92142e-05
+-1
+
+Procesadas: 52.7%Segundos estimados:0.28463Horas: 7.90639e-05
+-1
+
+Procesadas: 52.8%Segundos estimados:0.284091Horas: 7.89141e-05
+-1
+
+Procesadas: 52.9%Segundos estimados:0.283554Horas: 7.8765e-05
+-1
+
+Procesadas: 53%Segundos estimados:0.283019Horas: 7.86164e-05
+-1
+
+Procesadas: 53.1%Segundos estimados:0.282486Horas: 7.84683e-05
+-1
+
+Procesadas: 53.2%Segundos estimados:0.281955Horas: 7.83208e-05
+-1
+
+Procesadas: 53.3%Segundos estimados:0.281426Horas: 7.81739e-05
+-1
+
+Procesadas: 53.4%Segundos estimados:0.280899Horas: 7.80275e-05
+-1
+
+Procesadas: 53.5%Segundos estimados:0.299065Horas: 8.30737e-05
+-1
+
+Procesadas: 53.6%Segundos estimados:0.298507Horas: 8.29187e-05
+-1
+
+Procesadas: 53.7%Segundos estimados:0.297952Horas: 8.27643e-05
+-1
+
+Procesadas: 53.8%Segundos estimados:0.297398Horas: 8.26105e-05
+-1
+
+Procesadas: 53.9%Segundos estimados:0.296846Horas: 8.24572e-05
+-1
+
+Procesadas: 54%Segundos estimados:0.296296Horas: 8.23045e-05
+-1
+
+Procesadas: 54.1%Segundos estimados:0.295749Horas: 8.21524e-05
+-1
+
+Procesadas: 54.2%Segundos estimados:0.295203Horas: 8.20008e-05
+-1
+
+Procesadas: 54.3%Segundos estimados:0.294659Horas: 8.18498e-05
+-1
+
+Procesadas: 54.4%Segundos estimados:0.294118Horas: 8.16993e-05
+-1
+
+Procesadas: 54.5%Segundos estimados:0.293578Horas: 8.15494e-05
+-1
+
+Procesadas: 54.6%Segundos estimados:0.29304Horas: 8.14001e-05
+-1
+
+Procesadas: 54.7%Segundos estimados:0.292505Horas: 8.12513e-05
+-1
+
+Procesadas: 54.8%Segundos estimados:0.291971Horas: 8.1103e-05
+-1
+
+Procesadas: 54.9%Segundos estimados:0.291439Horas: 8.09553e-05
+-1
+
+Procesadas: 55%Segundos estimados:0.290909Horas: 8.08081e-05
+-1
+
+Procesadas: 55.1%Segundos estimados:0.290381Horas: 8.06614e-05
+-1
+
+Procesadas: 55.2%Segundos estimados:0.289855Horas: 8.05153e-05
+-1
+
+Procesadas: 55.3%Segundos estimados:0.289331Horas: 8.03697e-05
+-1
+
+Procesadas: 55.4%Segundos estimados:0.288809Horas: 8.02246e-05
+-1
+
+Procesadas: 55.5%Segundos estimados:0.288288Horas: 8.00801e-05
+-1
+
+Procesadas: 55.6%Segundos estimados:0.28777Horas: 7.99361e-05
+-1
+
+Procesadas: 55.7%Segundos estimados:0.287253Horas: 7.97925e-05
+-1
+
+Procesadas: 55.8%Segundos estimados:0.286738Horas: 7.96495e-05
+-1
+
+Procesadas: 55.9%Segundos estimados:0.286225Horas: 7.95071e-05
+-1
+
+Procesadas: 56%Segundos estimados:0.285714Horas: 7.93651e-05
+-1
+
+Procesadas: 56.1%Segundos estimados:0.285205Horas: 7.92236e-05
+-1
+
+Procesadas: 56.2%Segundos estimados:0.302491Horas: 8.40253e-05
+-1
+
+Procesadas: 56.3%Segundos estimados:0.301954Horas: 8.38761e-05
+-1
+
+Procesadas: 56.4%Segundos estimados:0.301418Horas: 8.37273e-05
+-1
+
+Procesadas: 56.5%Segundos estimados:0.300885Horas: 8.35792e-05
+-1
+
+Procesadas: 56.6%Segundos estimados:0.300353Horas: 8.34315e-05
+-1
+
+Procesadas: 56.7%Segundos estimados:0.299824Horas: 8.32843e-05
+-1
+
+Procesadas: 56.8%Segundos estimados:0.299296Horas: 8.31377e-05
+-1
+
+Procesadas: 56.9%Segundos estimados:0.29877Horas: 8.29916e-05
+-1
+
+Procesadas: 57%Segundos estimados:0.298246Horas: 8.2846e-05
+-1
+
+Procesadas: 57.1%Segundos estimados:0.297723Horas: 8.27009e-05
+-1
+
+Procesadas: 57.2%Segundos estimados:0.297203Horas: 8.25563e-05
+-1
+
+Procesadas: 57.3%Segundos estimados:0.296684Horas: 8.24123e-05
+-1
+
+Procesadas: 57.4%Segundos estimados:0.296167Horas: 8.22687e-05
+-1
+
+Procesadas: 57.5%Segundos estimados:0.295652Horas: 8.21256e-05
+-1
+
+Procesadas: 57.6%Segundos estimados:0.295139Horas: 8.1983e-05
+-1
+
+Procesadas: 57.7%Segundos estimados:0.294627Horas: 8.18409e-05
+-1
+
+Procesadas: 57.8%Segundos estimados:0.294118Horas: 8.16993e-05
+-1
+
+Procesadas: 57.9%Segundos estimados:0.29361Horas: 8.15582e-05
+-1
+
+Procesadas: 58%Segundos estimados:0.293103Horas: 8.14176e-05
+-1
+
+Procesadas: 58.1%Segundos estimados:0.292599Horas: 8.12775e-05
+-1
+
+Procesadas: 58.2%Segundos estimados:0.292096Horas: 8.11378e-05
+-1
+
+Procesadas: 58.3%Segundos estimados:0.291595Horas: 8.09987e-05
+-1
+
+Procesadas: 58.4%Segundos estimados:0.291096Horas: 8.086e-05
+-1
+
+Procesadas: 58.5%Segundos estimados:0.290598Horas: 8.07218e-05
+-1
+
+Procesadas: 58.6%Segundos estimados:0.290102Horas: 8.0584e-05
+-1
+
+Procesadas: 58.7%Segundos estimados:0.289608Horas: 8.04467e-05
+-1
+
+Procesadas: 58.8%Segundos estimados:0.289116Horas: 8.03099e-05
+-1
+
+Procesadas: 58.9%Segundos estimados:0.288625Horas: 8.01736e-05
+-1
+
+Procesadas: 59%Segundos estimados:0.288136Horas: 8.00377e-05
+-1
+
+Procesadas: 59.1%Segundos estimados:0.287648Horas: 7.99022e-05
+-1
+
+Procesadas: 59.2%Segundos estimados:0.287162Horas: 7.97673e-05
+-1
+
+Procesadas: 59.3%Segundos estimados:0.286678Horas: 7.96328e-05
+-1
+
+Procesadas: 59.4%Segundos estimados:0.286195Horas: 7.94987e-05
+-1
+
+Procesadas: 59.5%Segundos estimados:0.285714Horas: 7.93651e-05
+-1
+
+Procesadas: 59.6%Segundos estimados:0.285235Horas: 7.92319e-05
+-1
+
+Procesadas: 59.7%Segundos estimados:0.284757Horas: 7.90992e-05
+-1
+
+Procesadas: 59.8%Segundos estimados:0.284281Horas: 7.89669e-05
+-1
+
+Procesadas: 59.9%Segundos estimados:0.283806Horas: 7.88351e-05
+-1
+
+Procesadas: 60%Segundos estimados:0.283333Horas: 7.87037e-05
+-1
+
+Procesadas: 60.1%Segundos estimados:0.282862Horas: 7.85727e-05
+-1
+
+Procesadas: 60.2%Segundos estimados:0.282392Horas: 7.84422e-05
+-1
+
+Procesadas: 60.3%Segundos estimados:0.281924Horas: 7.83121e-05
+-1
+
+Procesadas: 60.4%Segundos estimados:0.298013Horas: 8.27815e-05
+-1
+
+Procesadas: 60.5%Segundos estimados:0.297521Horas: 8.26446e-05
+-1
+
+Procesadas: 60.6%Segundos estimados:0.29703Horas: 8.25083e-05
+-1
+
+Procesadas: 60.7%Segundos estimados:0.29654Horas: 8.23723e-05
+-1
+
+Procesadas: 60.8%Segundos estimados:0.296053Horas: 8.22369e-05
+-1
+
+Procesadas: 60.9%Segundos estimados:0.295566Horas: 8.21018e-05
+-1
+
+Procesadas: 61%Segundos estimados:0.295082Horas: 8.19672e-05
+-1
+
+Procesadas: 61.1%Segundos estimados:0.294599Horas: 8.18331e-05
+-1
+
+Procesadas: 61.2%Segundos estimados:0.294118Horas: 8.16993e-05
+-1
+
+Procesadas: 61.3%Segundos estimados:0.293638Horas: 8.15661e-05
+-1
+
+Procesadas: 61.4%Segundos estimados:0.29316Horas: 8.14332e-05
+-1
+
+Procesadas: 61.5%Segundos estimados:0.292683Horas: 8.13008e-05
+-1
+
+Procesadas: 61.6%Segundos estimados:0.292208Horas: 8.11688e-05
+-1
+
+Procesadas: 61.7%Segundos estimados:0.291734Horas: 8.10373e-05
+-1
+
+Procesadas: 61.8%Segundos estimados:0.291262Horas: 8.09062e-05
+-1
+
+Procesadas: 61.9%Segundos estimados:0.290792Horas: 8.07754e-05
+-1
+
+Procesadas: 62%Segundos estimados:0.290323Horas: 8.06452e-05
+-1
+
+Procesadas: 62.1%Segundos estimados:0.289855Horas: 8.05153e-05
+-1
+
+Procesadas: 62.2%Segundos estimados:0.289389Horas: 8.03859e-05
+-1
+
+Procesadas: 62.3%Segundos estimados:0.288925Horas: 8.02568e-05
+-1
+
+Procesadas: 62.4%Segundos estimados:0.288462Horas: 8.01282e-05
+-1
+
+Procesadas: 62.5%Segundos estimados:0.288Horas: 8e-05
+-1
+
+Procesadas: 62.6%Segundos estimados:0.28754Horas: 7.98722e-05
+-1
+
+Procesadas: 62.7%Segundos estimados:0.287081Horas: 7.97448e-05
+-1
+
+Procesadas: 62.8%Segundos estimados:0.286624Horas: 7.96178e-05
+-1
+
+Procesadas: 62.9%Segundos estimados:0.286169Horas: 7.94913e-05
+-1
+
+Procesadas: 63%Segundos estimados:0.285714Horas: 7.93651e-05
+-1
+
+Procesadas: 63.1%Segundos estimados:0.285262Horas: 7.92393e-05
+-1
+
+Procesadas: 63.2%Segundos estimados:0.300633Horas: 8.35091e-05
+-1
+
+Procesadas: 63.3%Segundos estimados:0.300158Horas: 8.33772e-05
+-1
+
+Procesadas: 63.4%Segundos estimados:0.299685Horas: 8.32457e-05
+-1
+
+Procesadas: 63.5%Segundos estimados:0.299213Horas: 8.31146e-05
+-1
+
+Procesadas: 63.6%Segundos estimados:0.298742Horas: 8.29839e-05
+-1
+
+Procesadas: 63.7%Segundos estimados:0.298273Horas: 8.28537e-05
+-1
+
+Procesadas: 63.8%Segundos estimados:0.297806Horas: 8.27238e-05
+-1
+
+Procesadas: 63.9%Segundos estimados:0.29734Horas: 8.25943e-05
+-1
+
+Procesadas: 64%Segundos estimados:0.296875Horas: 8.24653e-05
+-1
+
+Procesadas: 64.1%Segundos estimados:0.296412Horas: 8.23366e-05
+-1
+
+Procesadas: 64.2%Segundos estimados:0.29595Horas: 8.22084e-05
+-1
+
+Procesadas: 64.3%Segundos estimados:0.29549Horas: 8.20805e-05
+-1
+
+Procesadas: 64.4%Segundos estimados:0.295031Horas: 8.19531e-05
+-1
+
+Procesadas: 64.5%Segundos estimados:0.294574Horas: 8.1826e-05
+-1
+
+Procesadas: 64.6%Segundos estimados:0.294118Horas: 8.16993e-05
+-1
+
+Procesadas: 64.7%Segundos estimados:0.293663Horas: 8.15731e-05
+-1
+
+Procesadas: 64.8%Segundos estimados:0.29321Horas: 8.14472e-05
+-1
+
+Procesadas: 64.9%Segundos estimados:0.292758Horas: 8.13217e-05
+-1
+
+Procesadas: 65%Segundos estimados:0.292308Horas: 8.11966e-05
+-1
+
+Procesadas: 65.1%Segundos estimados:0.291859Horas: 8.10719e-05
+-1
+
+Procesadas: 65.2%Segundos estimados:0.291411Horas: 8.09475e-05
+-1
+
+Procesadas: 65.3%Segundos estimados:0.290965Horas: 8.08235e-05
+-1
+
+Procesadas: 65.4%Segundos estimados:0.29052Horas: 8.07e-05
+-1
+
+Procesadas: 65.5%Segundos estimados:0.290076Horas: 8.05768e-05
+-1
+
+Procesadas: 65.6%Segundos estimados:0.289634Horas: 8.04539e-05
+-1
+
+Procesadas: 65.7%Segundos estimados:0.289193Horas: 8.03315e-05
+-1
+
+Procesadas: 65.8%Segundos estimados:0.288754Horas: 8.02094e-05
+-1
+
+Procesadas: 65.9%Segundos estimados:0.288316Horas: 8.00877e-05
+-1
+
+Procesadas: 66%Segundos estimados:0.287879Horas: 7.99663e-05
+-1
+
+Procesadas: 66.1%Segundos estimados:0.287443Horas: 7.98453e-05
+-1
+
+Procesadas: 66.2%Segundos estimados:0.287009Horas: 7.97247e-05
+-1
+
+Procesadas: 66.3%Segundos estimados:0.286576Horas: 7.96045e-05
+-1
+
+Procesadas: 66.4%Segundos estimados:0.286145Horas: 7.94846e-05
+-1
+
+Procesadas: 66.5%Segundos estimados:0.285714Horas: 7.93651e-05
+-1
+
+Procesadas: 66.6%Segundos estimados:0.285285Horas: 7.92459e-05
+-1
+
+Procesadas: 66.7%Segundos estimados:0.284858Horas: 7.91271e-05
+-1
+
+Procesadas: 66.8%Segundos estimados:0.284431Horas: 7.90086e-05
+-1
+
+Procesadas: 66.9%Segundos estimados:0.284006Horas: 7.88905e-05
+-1
+
+Procesadas: 67%Segundos estimados:0.283582Horas: 7.87728e-05
+-1
+
+Procesadas: 67.1%Segundos estimados:0.283159Horas: 7.86554e-05
+-1
+
+Procesadas: 67.2%Segundos estimados:0.282738Horas: 7.85384e-05
+-1
+
+Procesadas: 67.3%Segundos estimados:0.282318Horas: 7.84217e-05
+-1
+
+Procesadas: 67.4%Segundos estimados:0.281899Horas: 7.83053e-05
+-1
+
+Procesadas: 67.5%Segundos estimados:0.281481Horas: 7.81893e-05
+-1
+
+Procesadas: 67.6%Segundos estimados:0.281065Horas: 7.80736e-05
+-1
+
+Procesadas: 67.7%Segundos estimados:0.28065Horas: 7.79583e-05
+-1
+
+Procesadas: 67.8%Segundos estimados:0.280236Horas: 7.78433e-05
+-1
+
+Procesadas: 67.9%Segundos estimados:0.279823Horas: 7.77287e-05
+-1
+
+Procesadas: 68%Segundos estimados:0.279412Horas: 7.76144e-05
+-1
+
+Procesadas: 68.1%Segundos estimados:0.279001Horas: 7.75004e-05
+-1
+
+Procesadas: 68.2%Segundos estimados:0.278592Horas: 7.73868e-05
+-1
+
+Procesadas: 68.3%Segundos estimados:0.278184Horas: 7.72735e-05
+-1
+
+Procesadas: 68.4%Segundos estimados:0.277778Horas: 7.71605e-05
+-1
+
+Procesadas: 68.5%Segundos estimados:0.277372Horas: 7.70479e-05
+-1
+
+Procesadas: 68.6%Segundos estimados:0.276968Horas: 7.69355e-05
+-1
+
+Procesadas: 68.7%Segundos estimados:0.291121Horas: 8.08669e-05
+-1
+
+Procesadas: 68.8%Segundos estimados:0.290698Horas: 8.07493e-05
+-1
+
+Procesadas: 68.9%Segundos estimados:0.290276Horas: 8.06322e-05
+-1
+
+Procesadas: 69%Segundos estimados:0.289855Horas: 8.05153e-05
+-1
+
+Procesadas: 69.1%Segundos estimados:0.289436Horas: 8.03988e-05
+-1
+
+Procesadas: 69.2%Segundos estimados:0.289017Horas: 8.02826e-05
+-1
+
+Procesadas: 69.3%Segundos estimados:0.2886Horas: 8.01667e-05
+-1
+
+Procesadas: 69.4%Segundos estimados:0.288184Horas: 8.00512e-05
+-1
+
+Procesadas: 69.5%Segundos estimados:0.28777Horas: 7.99361e-05
+-1
+
+Procesadas: 69.6%Segundos estimados:0.287356Horas: 7.98212e-05
+-1
+
+Procesadas: 69.7%Segundos estimados:0.286944Horas: 7.97067e-05
+-1
+
+Procesadas: 69.8%Segundos estimados:0.286533Horas: 7.95925e-05
+-1
+
+Procesadas: 69.9%Segundos estimados:0.286123Horas: 7.94786e-05
+-1
+
+Procesadas: 70%Segundos estimados:0.285714Horas: 7.93651e-05
+-1
+
+Procesadas: 70.1%Segundos estimados:0.285307Horas: 7.92519e-05
+-1
+
+Procesadas: 70.2%Segundos estimados:0.2849Horas: 7.9139e-05
+-1
+
+Procesadas: 70.3%Segundos estimados:0.284495Horas: 7.90264e-05
+-1
+
+Procesadas: 70.4%Segundos estimados:0.284091Horas: 7.89141e-05
+-1
+
+Procesadas: 70.5%Segundos estimados:0.283688Horas: 7.88022e-05
+-1
+
+Procesadas: 70.6%Segundos estimados:0.283286Horas: 7.86906e-05
+-1
+
+Procesadas: 70.7%Segundos estimados:0.282885Horas: 7.85793e-05
+-1
+
+Procesadas: 70.8%Segundos estimados:0.282486Horas: 7.84683e-05
+-1
+
+Procesadas: 70.9%Segundos estimados:0.282087Horas: 7.83576e-05
+-1
+
+Procesadas: 71%Segundos estimados:0.28169Horas: 7.82473e-05
+-1
+
+Procesadas: 71.1%Segundos estimados:0.281294Horas: 7.81372e-05
+-1
+
+Procesadas: 71.2%Segundos estimados:0.280899Horas: 7.80275e-05
+-1
+
+Procesadas: 71.3%Segundos estimados:0.280505Horas: 7.7918e-05
+-1
+
+Procesadas: 71.4%Segundos estimados:0.280112Horas: 7.78089e-05
+-1
+
+Procesadas: 71.5%Segundos estimados:0.293706Horas: 8.15851e-05
+-1
+
+Procesadas: 71.6%Segundos estimados:0.293296Horas: 8.14711e-05
+-1
+
+Procesadas: 71.7%Segundos estimados:0.292887Horas: 8.13575e-05
+-1
+
+Procesadas: 71.8%Segundos estimados:0.292479Horas: 8.12442e-05
+-1
+
+Procesadas: 71.9%Segundos estimados:0.292072Horas: 8.11312e-05
+-1
+
+Procesadas: 72%Segundos estimados:0.291667Horas: 8.10185e-05
+-1
+
+Procesadas: 72.1%Segundos estimados:0.291262Horas: 8.09061e-05
+-1
+
+Procesadas: 72.2%Segundos estimados:0.290859Horas: 8.07941e-05
+-1
+
+Procesadas: 72.3%Segundos estimados:0.290456Horas: 8.06823e-05
+-1
+
+Procesadas: 72.4%Segundos estimados:0.290055Horas: 8.05709e-05
+-1
+
+Procesadas: 72.5%Segundos estimados:0.289655Horas: 8.04598e-05
+-1
+
+Procesadas: 72.6%Segundos estimados:0.289256Horas: 8.03489e-05
+-1
+
+Procesadas: 72.7%Segundos estimados:0.288858Horas: 8.02384e-05
+-1
+
+Procesadas: 72.8%Segundos estimados:0.288462Horas: 8.01282e-05
+-1
+
+Procesadas: 72.9%Segundos estimados:0.288066Horas: 8.00183e-05
+-1
+
+Procesadas: 73%Segundos estimados:0.287671Horas: 7.99087e-05
+-1
+
+Procesadas: 73.1%Segundos estimados:0.287278Horas: 7.97994e-05
+-1
+
+Procesadas: 73.2%Segundos estimados:0.286885Horas: 7.96903e-05
+-1
+
+Procesadas: 73.3%Segundos estimados:0.286494Horas: 7.95816e-05
+-1
+
+Procesadas: 73.4%Segundos estimados:0.286104Horas: 7.94732e-05
+-1
+
+Procesadas: 73.5%Segundos estimados:0.285714Horas: 7.93651e-05
+-1
+
+Procesadas: 73.6%Segundos estimados:0.285326Horas: 7.92572e-05
+-1
+
+Procesadas: 73.7%Segundos estimados:0.284939Horas: 7.91497e-05
+-1
+
+Procesadas: 73.8%Segundos estimados:0.284553Horas: 7.90425e-05
+-1
+
+Procesadas: 73.9%Segundos estimados:0.284168Horas: 7.89355e-05
+-1
+
+Procesadas: 74%Segundos estimados:0.283784Horas: 7.88288e-05
+-1
+
+Procesadas: 74.1%Segundos estimados:0.283401Horas: 7.87224e-05
+-1
+
+Procesadas: 74.2%Segundos estimados:0.283019Horas: 7.86164e-05
+-1
+
+Procesadas: 74.3%Segundos estimados:0.282638Horas: 7.85105e-05
+-1
+
+Procesadas: 74.4%Segundos estimados:0.282258Horas: 7.8405e-05
+-1
+
+Procesadas: 74.5%Segundos estimados:0.281879Horas: 7.82998e-05
+-1
+
+Procesadas: 74.6%Segundos estimados:0.281501Horas: 7.81948e-05
+-1
+
+Procesadas: 74.7%Segundos estimados:0.281125Horas: 7.80901e-05
+-1
+
+Procesadas: 74.8%Segundos estimados:0.280749Horas: 7.79857e-05
+-1
+
+Procesadas: 74.9%Segundos estimados:0.280374Horas: 7.78816e-05
+-1
+
+Procesadas: 75%Segundos estimados:0.28Horas: 7.77778e-05
+-1
+
+Procesadas: 75.1%Segundos estimados:0.279627Horas: 7.76742e-05
+-1
+
+Procesadas: 75.2%Segundos estimados:0.279255Horas: 7.75709e-05
+-1
+
+Procesadas: 75.3%Segundos estimados:0.278884Horas: 7.74679e-05
+-1
+
+Procesadas: 75.4%Segundos estimados:0.278515Horas: 7.73652e-05
+-1
+
+Procesadas: 75.5%Segundos estimados:0.278146Horas: 7.72627e-05
+-1
+
+Procesadas: 75.6%Segundos estimados:0.291005Horas: 8.08348e-05
+-1
+
+Procesadas: 75.7%Segundos estimados:0.290621Horas: 8.0728e-05
+-1
+
+Procesadas: 75.8%Segundos estimados:0.290237Horas: 8.06215e-05
+-1
+
+Procesadas: 75.9%Segundos estimados:0.289855Horas: 8.05153e-05
+-1
+
+Procesadas: 76%Segundos estimados:0.289474Horas: 8.04094e-05
+-1
+
+Procesadas: 76.1%Segundos estimados:0.289093Horas: 8.03037e-05
+-1
+
+Procesadas: 76.2%Segundos estimados:0.288714Horas: 8.01983e-05
+-1
+
+Procesadas: 76.3%Segundos estimados:0.288336Horas: 8.00932e-05
+-1
+
+Procesadas: 76.4%Segundos estimados:0.287958Horas: 7.99884e-05
+-1
+
+Procesadas: 76.5%Segundos estimados:0.287582Horas: 7.98838e-05
+-1
+
+Procesadas: 76.6%Segundos estimados:0.287206Horas: 7.97795e-05
+-1
+
+Procesadas: 76.7%Segundos estimados:0.286832Horas: 7.96755e-05
+-1
+
+Procesadas: 76.8%Segundos estimados:0.286458Horas: 7.95718e-05
+-1
+
+Procesadas: 76.9%Segundos estimados:0.286086Horas: 7.94683e-05
+-1
+
+Procesadas: 77%Segundos estimados:0.285714Horas: 7.93651e-05
+-1
+
+Procesadas: 77.1%Segundos estimados:0.285344Horas: 7.92621e-05
+-1
+
+Procesadas: 77.2%Segundos estimados:0.284974Horas: 7.91595e-05
+-1
+
+Procesadas: 77.3%Segundos estimados:0.284605Horas: 7.90571e-05
+-1
+
+Procesadas: 77.4%Segundos estimados:0.284238Horas: 7.89549e-05
+-1
+
+Procesadas: 77.5%Segundos estimados:0.283871Horas: 7.8853e-05
+-1
+
+Procesadas: 77.6%Segundos estimados:0.283505Horas: 7.87514e-05
+-1
+
+Procesadas: 77.7%Segundos estimados:0.28314Horas: 7.86501e-05
+-1
+
+Procesadas: 77.8%Segundos estimados:0.282776Horas: 7.8549e-05
+-1
+
+Procesadas: 77.9%Segundos estimados:0.282413Horas: 7.84482e-05
+-1
+
+Procesadas: 78%Segundos estimados:0.282051Horas: 7.83476e-05
+-1
+
+Procesadas: 78.1%Segundos estimados:0.28169Horas: 7.82473e-05
+-1
+
+Procesadas: 78.2%Segundos estimados:0.28133Horas: 7.81472e-05
+-1
+
+Procesadas: 78.3%Segundos estimados:0.280971Horas: 7.80474e-05
+-1
+
+Procesadas: 78.4%Segundos estimados:0.293367Horas: 8.14909e-05
+-1
+
+Procesadas: 78.5%Segundos estimados:0.292994Horas: 8.13871e-05
+-1
+
+Procesadas: 78.6%Segundos estimados:0.292621Horas: 8.12836e-05
+-1
+
+Procesadas: 78.7%Segundos estimados:0.292249Horas: 8.11803e-05
+-1
+
+Procesadas: 78.8%Segundos estimados:0.291878Horas: 8.10773e-05
+-1
+
+Procesadas: 78.9%Segundos estimados:0.291508Horas: 8.09745e-05
+-1
+
+Procesadas: 79%Segundos estimados:0.291139Horas: 8.0872e-05
+-1
+
+Procesadas: 79.1%Segundos estimados:0.290771Horas: 8.07698e-05
+-1
+
+Procesadas: 79.2%Segundos estimados:0.290404Horas: 8.06678e-05
+-1
+
+Procesadas: 79.3%Segundos estimados:0.290038Horas: 8.05661e-05
+-1
+
+Procesadas: 79.4%Segundos estimados:0.289673Horas: 8.04646e-05
+-1
+
+Procesadas: 79.5%Segundos estimados:0.289308Horas: 8.03634e-05
+-1
+
+Procesadas: 79.6%Segundos estimados:0.288945Horas: 8.02624e-05
+-1
+
+Procesadas: 79.7%Segundos estimados:0.288582Horas: 8.01617e-05
+-1
+
+Procesadas: 79.8%Segundos estimados:0.288221Horas: 8.00613e-05
+-1
+
+Procesadas: 79.9%Segundos estimados:0.28786Horas: 7.99611e-05
+-1
+
+Procesadas: 80%Segundos estimados:0.2875Horas: 7.98611e-05
+-1
+
+Procesadas: 80.1%Segundos estimados:0.287141Horas: 7.97614e-05
+-1
+
+Procesadas: 80.2%Segundos estimados:0.286783Horas: 7.9662e-05
+-1
+
+Procesadas: 80.3%Segundos estimados:0.286426Horas: 7.95628e-05
+-1
+
+Procesadas: 80.4%Segundos estimados:0.28607Horas: 7.94638e-05
+-1
+
+Procesadas: 80.5%Segundos estimados:0.285714Horas: 7.93651e-05
+-1
+
+Procesadas: 80.6%Segundos estimados:0.28536Horas: 7.92666e-05
+-1
+
+Procesadas: 80.7%Segundos estimados:0.285006Horas: 7.91684e-05
+-1
+
+Procesadas: 80.8%Segundos estimados:0.284653Horas: 7.90704e-05
+-1
+
+Procesadas: 80.9%Segundos estimados:0.284302Horas: 7.89727e-05
+-1
+
+Procesadas: 81%Segundos estimados:0.283951Horas: 7.88752e-05
+-1
+
+Procesadas: 81.1%Segundos estimados:0.283601Horas: 7.87779e-05
+-1
+
+Procesadas: 81.2%Segundos estimados:0.283251Horas: 7.86809e-05
+-1
+
+Procesadas: 81.3%Segundos estimados:0.282903Horas: 7.85841e-05
+-1
+
+Procesadas: 81.4%Segundos estimados:0.282555Horas: 7.84876e-05
+-1
+
+Procesadas: 81.5%Segundos estimados:0.282209Horas: 7.83913e-05
+-1
+
+Procesadas: 81.6%Segundos estimados:0.281863Horas: 7.82952e-05
+-1
+
+Procesadas: 81.7%Segundos estimados:0.281518Horas: 7.81994e-05
+-1
+
+Procesadas: 81.8%Segundos estimados:0.281174Horas: 7.81038e-05
+-1
+
+Procesadas: 81.9%Segundos estimados:0.28083Horas: 7.80084e-05
+-1
+
+Procesadas: 82%Segundos estimados:0.280488Horas: 7.79133e-05
+-1
+
+Procesadas: 82.1%Segundos estimados:0.280146Horas: 7.78184e-05
+-1
+
+Procesadas: 82.2%Segundos estimados:0.279805Horas: 7.77237e-05
+-1
+
+Procesadas: 82.3%Segundos estimados:0.279465Horas: 7.76293e-05
+-1
+
+Procesadas: 82.4%Segundos estimados:0.279126Horas: 7.75351e-05
+-1
+
+Procesadas: 82.5%Segundos estimados:0.290909Horas: 8.08081e-05
+-1
+
+Procesadas: 82.6%Segundos estimados:0.290557Horas: 8.07103e-05
+-1
+
+Procesadas: 82.7%Segundos estimados:0.290206Horas: 8.06126e-05
+-1
+
+Procesadas: 82.8%Segundos estimados:0.289855Horas: 8.05153e-05
+-1
+
+Procesadas: 82.9%Segundos estimados:0.289505Horas: 8.04182e-05
+-1
+
+Procesadas: 83%Segundos estimados:0.289157Horas: 8.03213e-05
+-1
+
+Procesadas: 83.1%Segundos estimados:0.288809Horas: 8.02246e-05
+-1
+
+Procesadas: 83.2%Segundos estimados:0.288462Horas: 8.01282e-05
+-1
+
+Procesadas: 83.3%Segundos estimados:0.288115Horas: 8.0032e-05
+-1
+
+Procesadas: 83.4%Segundos estimados:0.28777Horas: 7.99361e-05
+-1
+
+Procesadas: 83.5%Segundos estimados:0.287425Horas: 7.98403e-05
+-1
+
+Procesadas: 83.6%Segundos estimados:0.287081Horas: 7.97448e-05
+-1
+
+Procesadas: 83.7%Segundos estimados:0.286738Horas: 7.96495e-05
+-1
+
+Procesadas: 83.8%Segundos estimados:0.286396Horas: 7.95545e-05
+-1
+
+Procesadas: 83.9%Segundos estimados:0.286055Horas: 7.94597e-05
+-1
+
+Procesadas: 84%Segundos estimados:0.285714Horas: 7.93651e-05
+-1
+
+Procesadas: 84.1%Segundos estimados:0.285375Horas: 7.92707e-05
+-1
+
+Procesadas: 84.2%Segundos estimados:0.285036Horas: 7.91766e-05
+-1
+
+Procesadas: 84.3%Segundos estimados:0.284698Horas: 7.90826e-05
+-1
+
+Procesadas: 84.4%Segundos estimados:0.28436Horas: 7.89889e-05
+-1
+
+Procesadas: 84.5%Segundos estimados:0.284024Horas: 7.88955e-05
+-1
+
+Procesadas: 84.6%Segundos estimados:0.283688Horas: 7.88022e-05
+-1
+
+Procesadas: 84.7%Segundos estimados:0.283353Horas: 7.87092e-05
+-1
+
+Procesadas: 84.8%Segundos estimados:0.283019Horas: 7.86164e-05
+-1
+
+Procesadas: 84.9%Segundos estimados:0.282686Horas: 7.85238e-05
+-1
+
+Procesadas: 85%Segundos estimados:0.282353Horas: 7.84314e-05
+-1
+
+Procesadas: 85.1%Segundos estimados:0.282021Horas: 7.83392e-05
+-1
+
+Procesadas: 85.2%Segundos estimados:0.28169Horas: 7.82473e-05
+-1
+
+Procesadas: 85.3%Segundos estimados:0.293083Horas: 8.1412e-05
+-1
+
+Procesadas: 85.4%Segundos estimados:0.29274Horas: 8.13167e-05
+-1
+
+Procesadas: 85.5%Segundos estimados:0.292398Horas: 8.12216e-05
+-1
+
+Procesadas: 85.6%Segundos estimados:0.292056Horas: 8.11267e-05
+-1
+
+Procesadas: 85.7%Segundos estimados:0.291715Horas: 8.1032e-05
+-1
+
+Procesadas: 85.8%Segundos estimados:0.291375Horas: 8.09376e-05
+-1
+
+Procesadas: 85.9%Segundos estimados:0.291036Horas: 8.08434e-05
+-1
+
+Procesadas: 86%Segundos estimados:0.290698Horas: 8.07493e-05
+-1
+
+Procesadas: 86.1%Segundos estimados:0.29036Horas: 8.06556e-05
+-1
+
+Procesadas: 86.2%Segundos estimados:0.290023Horas: 8.0562e-05
+-1
+
+Procesadas: 86.3%Segundos estimados:0.289687Horas: 8.04687e-05
+-1
+
+Procesadas: 86.4%Segundos estimados:0.289352Horas: 8.03755e-05
+-1
+
+Procesadas: 86.5%Segundos estimados:0.289017Horas: 8.02826e-05
+-1
+
+Procesadas: 86.6%Segundos estimados:0.288684Horas: 8.01899e-05
+-1
+
+Procesadas: 86.7%Segundos estimados:0.288351Horas: 8.00974e-05
+-1
+
+Procesadas: 86.8%Segundos estimados:0.288018Horas: 8.00051e-05
+-1
+
+Procesadas: 86.9%Segundos estimados:0.287687Horas: 7.99131e-05
+-1
+
+Procesadas: 87%Segundos estimados:0.287356Horas: 7.98212e-05
+-1
+
+Procesadas: 87.1%Segundos estimados:0.287026Horas: 7.97296e-05
+-1
+
+Procesadas: 87.2%Segundos estimados:0.286697Horas: 7.96381e-05
+-1
+
+Procesadas: 87.3%Segundos estimados:0.286369Horas: 7.95469e-05
+-1
+
+Procesadas: 87.4%Segundos estimados:0.286041Horas: 7.94559e-05
+-1
+
+Procesadas: 87.5%Segundos estimados:0.285714Horas: 7.93651e-05
+-1
+
+Procesadas: 87.6%Segundos estimados:0.285388Horas: 7.92745e-05
+-1
+
+Procesadas: 87.7%Segundos estimados:0.285063Horas: 7.91841e-05
+-1
+
+Procesadas: 87.8%Segundos estimados:0.284738Horas: 7.90939e-05
+-1
+
+Procesadas: 87.9%Segundos estimados:0.284414Horas: 7.90039e-05
+-1
+
+Procesadas: 88%Segundos estimados:0.284091Horas: 7.89141e-05
+-1
+
+Procesadas: 88.1%Segundos estimados:0.283768Horas: 7.88246e-05
+-1
+
+Procesadas: 88.2%Segundos estimados:0.283447Horas: 7.87352e-05
+-1
+
+Procesadas: 88.3%Segundos estimados:0.283126Horas: 7.8646e-05
+-1
+
+Procesadas: 88.4%Segundos estimados:0.282805Horas: 7.85571e-05
+-1
+
+Procesadas: 88.5%Segundos estimados:0.282486Horas: 7.84683e-05
+-1
+
+Procesadas: 88.6%Segundos estimados:0.282167Horas: 7.83797e-05
+-1
+
+Procesadas: 88.7%Segundos estimados:0.281849Horas: 7.82914e-05
+-1
+
+Procesadas: 88.8%Segundos estimados:0.281532Horas: 7.82032e-05
+-1
+
+Procesadas: 88.9%Segundos estimados:0.281215Horas: 7.81152e-05
+-1
+
+Procesadas: 89%Segundos estimados:0.280899Horas: 7.80275e-05
+-1
+
+Procesadas: 89.1%Segundos estimados:0.280584Horas: 7.79399e-05
+-1
+
+Procesadas: 89.2%Segundos estimados:0.280269Horas: 7.78525e-05
+-1
+
+Procesadas: 89.3%Segundos estimados:0.279955Horas: 7.77653e-05
+-1
+
+Procesadas: 89.4%Segundos estimados:0.290828Horas: 8.07855e-05
+-1
+
+Procesadas: 89.5%Segundos estimados:0.290503Horas: 8.06952e-05
+-1
+
+Procesadas: 89.6%Segundos estimados:0.290179Horas: 8.06051e-05
+-1
+
+Procesadas: 89.7%Segundos estimados:0.289855Horas: 8.05153e-05
+-1
+
+Procesadas: 89.8%Segundos estimados:0.289532Horas: 8.04256e-05
+-1
+
+Procesadas: 89.9%Segundos estimados:0.28921Horas: 8.03362e-05
+-1
+
+Procesadas: 90%Segundos estimados:0.288889Horas: 8.02469e-05
+-1
+
+Procesadas: 90.1%Segundos estimados:0.288568Horas: 8.01578e-05
+-1
+
+Procesadas: 90.2%Segundos estimados:0.288248Horas: 8.0069e-05
+-1
+
+Procesadas: 90.3%Segundos estimados:0.287929Horas: 7.99803e-05
+-1
+
+Procesadas: 90.4%Segundos estimados:0.287611Horas: 7.98918e-05
+-1
+
+Procesadas: 90.5%Segundos estimados:0.287293Horas: 7.98036e-05
+-1
+
+Procesadas: 90.6%Segundos estimados:0.286976Horas: 7.97155e-05
+-1
+
+Procesadas: 90.7%Segundos estimados:0.286659Horas: 7.96276e-05
+-1
+
+Procesadas: 90.8%Segundos estimados:0.286344Horas: 7.95399e-05
+-1
+
+Procesadas: 90.9%Segundos estimados:0.286029Horas: 7.94524e-05
+-1
+
+Procesadas: 91%Segundos estimados:0.285714Horas: 7.93651e-05
+-1
+
+Procesadas: 91.1%Segundos estimados:0.285401Horas: 7.9278e-05
+-1
+
+Procesadas: 91.2%Segundos estimados:0.285088Horas: 7.9191e-05
+-1
+
+Procesadas: 91.3%Segundos estimados:0.284775Horas: 7.91043e-05
+-1
+
+Procesadas: 91.4%Segundos estimados:0.284464Horas: 7.90177e-05
+-1
+
+Procesadas: 91.5%Segundos estimados:0.284153Horas: 7.89314e-05
+-1
+
+Procesadas: 91.6%Segundos estimados:0.283843Horas: 7.88452e-05
+-1
+
+Procesadas: 91.7%Segundos estimados:0.283533Horas: 7.87592e-05
+-1
+
+Procesadas: 91.8%Segundos estimados:0.283224Horas: 7.86734e-05
+-1
+
+Procesadas: 91.9%Segundos estimados:0.282916Horas: 7.85878e-05
+-1
+
+Procesadas: 92%Segundos estimados:0.282609Horas: 7.85024e-05
+-1
+
+Procesadas: 92.1%Segundos estimados:0.282302Horas: 7.84172e-05
+-1
+
+Procesadas: 92.2%Segundos estimados:0.292842Horas: 8.13449e-05
+-1
+
+Procesadas: 92.3%Segundos estimados:0.292524Horas: 8.12568e-05
+-1
+
+Procesadas: 92.4%Segundos estimados:0.292208Horas: 8.11688e-05
+-1
+
+Procesadas: 92.5%Segundos estimados:0.291892Horas: 8.10811e-05
+-1
+
+Procesadas: 92.6%Segundos estimados:0.291577Horas: 8.09935e-05
+-1
+
+Procesadas: 92.7%Segundos estimados:0.291262Horas: 8.09062e-05
+-1
+
+Procesadas: 92.8%Segundos estimados:0.290948Horas: 8.0819e-05
+-1
+
+Procesadas: 92.9%Segundos estimados:0.290635Horas: 8.0732e-05
+-1
+
+Procesadas: 93%Segundos estimados:0.290323Horas: 8.06452e-05
+-1
+
+Procesadas: 93.1%Segundos estimados:0.290011Horas: 8.05585e-05
+-1
+
+Procesadas: 93.2%Segundos estimados:0.2897Horas: 8.04721e-05
+-1
+
+Procesadas: 93.3%Segundos estimados:0.289389Horas: 8.03859e-05
+-1
+
+Procesadas: 93.4%Segundos estimados:0.289079Horas: 8.02998e-05
+-1
+
+Procesadas: 93.5%Segundos estimados:0.28877Horas: 8.02139e-05
+-1
+
+Procesadas: 93.6%Segundos estimados:0.288462Horas: 8.01282e-05
+-1
+
+Procesadas: 93.7%Segundos estimados:0.288154Horas: 8.00427e-05
+-1
+
+Procesadas: 93.8%Segundos estimados:0.287846Horas: 7.99574e-05
+-1
+
+Procesadas: 93.9%Segundos estimados:0.28754Horas: 7.98722e-05
+-1
+
+Procesadas: 94%Segundos estimados:0.287234Horas: 7.97872e-05
+-1
+
+Procesadas: 94.1%Segundos estimados:0.286929Horas: 7.97024e-05
+-1
+
+Procesadas: 94.2%Segundos estimados:0.286624Horas: 7.96178e-05
+-1
+
+Procesadas: 94.3%Segundos estimados:0.28632Horas: 7.95334e-05
+-1
+
+Procesadas: 94.4%Segundos estimados:0.286017Horas: 7.94492e-05
+-1
+
+Procesadas: 94.5%Segundos estimados:0.285714Horas: 7.93651e-05
+-1
+
+Procesadas: 94.6%Segundos estimados:0.285412Horas: 7.92812e-05
+-1
+
+Procesadas: 94.7%Segundos estimados:0.285111Horas: 7.91975e-05
+-1
+
+Procesadas: 94.8%Segundos estimados:0.28481Horas: 7.91139e-05
+-1
+
+Procesadas: 94.9%Segundos estimados:0.28451Horas: 7.90306e-05
+-1
+
+Procesadas: 95%Segundos estimados:0.294737Horas: 8.18713e-05
+-1
+
+Procesadas: 95.1%Segundos estimados:0.294427Horas: 8.17853e-05
+-1
+
+Procesadas: 95.2%Segundos estimados:0.294118Horas: 8.16993e-05
+-1
+
+Procesadas: 95.3%Segundos estimados:0.293809Horas: 8.16136e-05
+-1
+
+Procesadas: 95.4%Segundos estimados:0.293501Horas: 8.15281e-05
+-1
+
+Procesadas: 95.5%Segundos estimados:0.293194Horas: 8.14427e-05
+-1
+
+Procesadas: 95.6%Segundos estimados:0.292887Horas: 8.13575e-05
+-1
+
+Procesadas: 95.7%Segundos estimados:0.292581Horas: 8.12725e-05
+-1
+
+Procesadas: 95.8%Segundos estimados:0.292276Horas: 8.11877e-05
+-1
+
+Procesadas: 95.9%Segundos estimados:0.291971Horas: 8.1103e-05
+-1
+
+Procesadas: 96%Segundos estimados:0.291667Horas: 8.10185e-05
+-1
+
+Procesadas: 96.1%Segundos estimados:0.291363Horas: 8.09342e-05
+-1
+
+Procesadas: 96.2%Segundos estimados:0.29106Horas: 8.08501e-05
+-1
+
+Procesadas: 96.3%Segundos estimados:0.290758Horas: 8.07661e-05
+-1
+
+Procesadas: 96.4%Segundos estimados:0.290456Horas: 8.06823e-05
+-1
+
+Procesadas: 96.5%Segundos estimados:0.290155Horas: 8.05987e-05
+-1
+
+Procesadas: 96.6%Segundos estimados:0.289855Horas: 8.05153e-05
+-1
+
+Procesadas: 96.7%Segundos estimados:0.289555Horas: 8.0432e-05
+-1
+
+Procesadas: 96.8%Segundos estimados:0.289256Horas: 8.03489e-05
+-1
+
+Procesadas: 96.9%Segundos estimados:0.288958Horas: 8.0266e-05
+-1
+
+Procesadas: 97%Segundos estimados:0.28866Horas: 8.01833e-05
+-1
+
+Procesadas: 97.1%Segundos estimados:0.288363Horas: 8.01007e-05
+-1
+
+Procesadas: 97.2%Segundos estimados:0.288066Horas: 8.00183e-05
+-1
+
+Procesadas: 97.3%Segundos estimados:0.28777Horas: 7.99361e-05
+-1
+
+Procesadas: 97.4%Segundos estimados:0.287474Horas: 7.9854e-05
+-1
+
+Procesadas: 97.5%Segundos estimados:0.287179Horas: 7.97721e-05
+-1
+
+Procesadas: 97.6%Segundos estimados:0.286885Horas: 7.96903e-05
+-1
+
+Procesadas: 97.7%Segundos estimados:0.286592Horas: 7.96088e-05
+-1
+
+Procesadas: 97.8%Segundos estimados:0.286299Horas: 7.95274e-05
+-1
+
+Procesadas: 97.9%Segundos estimados:0.286006Horas: 7.94462e-05
+-1
+
+Procesadas: 98%Segundos estimados:0.285714Horas: 7.93651e-05
+-1
+
+Procesadas: 98.1%Segundos estimados:0.285423Horas: 7.92842e-05
+-1
+
+Procesadas: 98.2%Segundos estimados:0.285132Horas: 7.92034e-05
+-1
+
+Procesadas: 98.3%Segundos estimados:0.284842Horas: 7.91229e-05
+-1
+
+Procesadas: 98.4%Segundos estimados:0.284553Horas: 7.90425e-05
+-1
+
+Procesadas: 98.5%Segundos estimados:0.284264Horas: 7.89622e-05
+-1
+
+Procesadas: 98.6%Segundos estimados:0.283976Horas: 7.88821e-05
+-1
+
+Procesadas: 98.7%Segundos estimados:0.283688Horas: 7.88022e-05
+-1
+
+Procesadas: 98.8%Segundos estimados:0.283401Horas: 7.87224e-05
+-1
+
+Procesadas: 98.9%Segundos estimados:0.283114Horas: 7.86428e-05
+-1
+
+Procesadas: 99%Segundos estimados:0.282828Horas: 7.85634e-05
+-1
+
+Procesadas: 99.1%Segundos estimados:0.292634Horas: 8.12871e-05
+-1
+
+Procesadas: 99.2%Segundos estimados:0.292339Horas: 8.12052e-05
+-1
+
+Procesadas: 99.3%Segundos estimados:0.292044Horas: 8.11234e-05
+-1
+
+Procesadas: 99.4%Segundos estimados:0.29175Horas: 8.10418e-05
+-1
+
+Procesadas: 99.5%Segundos estimados:0.291457Horas: 8.09604e-05
+-1
+
+Procesadas: 99.6%Segundos estimados:0.291165Horas: 8.08791e-05
+-1
+
+Procesadas: 99.7%Segundos estimados:0.290873Horas: 8.07979e-05
+-1
+
+Procesadas: 99.8%Segundos estimados:0.290581Horas: 8.0717e-05
+-1
+
+Procesadas: 99.9%Segundos estimados:0.29029Horas: 8.06362e-05
+----largo: 0soy un 0
+1373 
+----largo: 0soy un 0
+5043 
+----largo: 0soy un 0
+8720 
+----largo: 0soy un 0
+12420 
+----largo: 0soy un 0
+16127 
+----largo: 0soy un 0
+19852 
+----largo: 0soy un 0
+23562 
+----largo: 0soy un 0
+27260 
+----largo: 0soy un 0
+30973 
+----largo: 0soy un 0
+34675 
+----largo: 0soy un 0
+38365 
+----largo: 0soy un 0
+42037 
+----largo: 0soy un 0
+45735 
+----largo: 0soy un 0
+49439 
+----largo: 0soy un 0
+53128 
+----largo: 0soy un 0
+56815 
+----largo: 0soy un 0
+60497 
+----largo: 0soy un 0
+64191 
+----largo: 0soy un 0
+67884 
+----largo: 0soy un 0
+71580 
+----largo: 0soy un 0
+75269 
+----largo: 0soy un 0
+78975 
+----largo: 0soy un 0
+82653 
+----largo: 0soy un 0
+86352 
+----largo: 0soy un 0
+90041 
+----largo: 0soy un 0
+93745 
+----largo: 0soy un 0
+97447 
+----largo: 0soy un 0
+101153 
+----largo: 0soy un 0
+104868 
+----largo: 0soy un 0
+108580 
+----largo: 0soy un 0
+112303 
+----largo: 0soy un 0
+116004 
+----largo: 0soy un 0
+119701 
+----largo: 0soy un 0
+123414 
+----largo: 0soy un 0
+127101 
+----largo: 0soy un 0
+130790 
+----largo: 0soy un 0
+134472 
+----largo: 0soy un 0
+138200 
+----largo: 0soy un 0
+141892 
+----largo: 0soy un 0
+145574 
+----largo: 0soy un 0
+149285 
+----largo: 0soy un 0
+152992 
+----largo: 0soy un 0
+156696 
+----largo: 0soy un 0
+160373 
+----largo: 0soy un 0
+164061 
+----largo: 0soy un 0
+167758 
+----largo: 0soy un 0
+171464 
+----largo: 0soy un 0
+175139 
+----largo: 0soy un 0
+178836 
+----largo: 0soy un 0
+182519 
+----largo: 0soy un 0
+186191 
+----largo: 0soy un 0
+189874 
+----largo: 0soy un 0
+193578 
+----largo: 0soy un 0
+197269 
+----largo: 0soy un 0
+200968 
+----largo: 0soy un 0
+204673 
+----largo: 0soy un 0
+208352 
+----largo: 0soy un 0
+212051 
+----largo: 0soy un 0
+215730 
+----largo: 0soy un 0
+219439 
+----largo: 0soy un 0
+223155 
+----largo: 0soy un 0
+226842 
+----largo: 0soy un 0
+230527 
+----largo: 0soy un 0
+234210 
+----largo: 0soy un 0
+237925 
+----largo: 0soy un 0
+241628 
+----largo: 0soy un 0
+245347 
+----largo: 0soy un 0
+249073 
+----largo: 0soy un 0
+252773 
+----largo: 0soy un 0
+256492 
+----largo: 0soy un 0
+260187 
+----largo: 0soy un 0
+263865 
+----largo: 0soy un 0
+267568 
+----largo: 0soy un 0
+271262 
+----largo: 0soy un 0
+274969 
+----largo: 0soy un 0
+278657 
+----largo: 0soy un 0
+282322 
+----largo: 0soy un 0
+286009 
+----largo: 0soy un 0
+289703 
+----largo: 0soy un 0
+293388 
+----largo: 0soy un 0
+297080 
+----largo: 0soy un 0
+300787 
+----largo: 0soy un 0
+304467 
+----largo: 0soy un 0
+308170 
+----largo: 0soy un 0
+311849 
+----largo: 0soy un 0
+315544 
+----largo: 0soy un 0
+319259 
+----largo: 0soy un 0
+322973 
+----largo: 0soy un 0
+326658 
+----largo: 0soy un 0
+330347 
+----largo: 0soy un 0
+334035 
+----largo: 0soy un 0
+337747 
+----largo: 0soy un 0
+341412 
+----largo: 0soy un 0
+345096 
+----largo: 0soy un 0
+348794 
+----largo: 0soy un 0
+352475 
+----largo: 0soy un 0
+356153 
+----largo: 0soy un 0
+359846 
+----largo: 0soy un 0
+363548 
+----largo: 0soy un 0
+367206 
+----largo: 0soy un 0
+370890 
+----largo: 0soy un 1
+374582 
+----largo: 0soy un 1
+378286 
+----largo: 0soy un 1
+382007 
+----largo: 0soy un 1
+385716 
+----largo: 0soy un 1
+389409 
+----largo: 0soy un 1
+393142 
+----largo: 0soy un 1
+396844 
+----largo: 0soy un 1
+400558 
+----largo: 0soy un 1
+404271 
+----largo: 0soy un 1
+407964 
+----largo: 0soy un 1
+411667 
+----largo: 0soy un 1
+415364 
+----largo: 0soy un 1
+419092 
+----largo: 0soy un 1
+422812 
+----largo: 0soy un 1
+426548 
+----largo: 0soy un 1
+430241 
+----largo: 0soy un 1
+433965 
+----largo: 0soy un 1
+437686 
+----largo: 0soy un 1
+441396 
+----largo: 0soy un 1
+445098 
+----largo: 0soy un 1
+448801 
+----largo: 0soy un 1
+452511 
+----largo: 0soy un 1
+456229 
+----largo: 0soy un 1
+459956 
+----largo: 0soy un 1
+463679 
+----largo: 0soy un 1
+467404 
+----largo: 0soy un 1
+471113 
+----largo: 0soy un 1
+474818 
+----largo: 0soy un 1
+478527 
+----largo: 0soy un 1
+482227 
+----largo: 0soy un 1
+485942 
+----largo: 0soy un 1
+489643 
+----largo: 0soy un 1
+493357 
+----largo: 0soy un 1
+497052 
+----largo: 0soy un 1
+500758 
+----largo: 0soy un 1
+504474 
+----largo: 0soy un 1
+508198 
+----largo: 0soy un 1
+511918 
+----largo: 0soy un 1
+515633 
+----largo: 0soy un 1
+519332 
+----largo: 0soy un 1
+523036 
+----largo: 0soy un 1
+526760 
+----largo: 0soy un 1
+530464 
+----largo: 0soy un 1
+534196 
+----largo: 0soy un 1
+537898 
+----largo: 0soy un 1
+541619 
+----largo: 0soy un 1
+545346 
+----largo: 0soy un 1
+549069 
+----largo: 0soy un 1
+552765 
+----largo: 0soy un 1
+556481 
+----largo: 0soy un 1
+560179 
+----largo: 0soy un 1
+563884 
+----largo: 0soy un 1
+567611 
+----largo: 0soy un 1
+571328 
+----largo: 0soy un 1
+575047 
+----largo: 0soy un 1
+578783 
+----largo: 0soy un 1
+582503 
+----largo: 0soy un 1
+586222 
+----largo: 0soy un 1
+589936 
+----largo: 0soy un 1
+593649 
+----largo: 0soy un 1
+597370 
+----largo: 0soy un 1
+601103 
+----largo: 0soy un 1
+604818 
+----largo: 0soy un 1
+608536 
+----largo: 0soy un 1
+612221 
+----largo: 0soy un 1
+615934 
+----largo: 0soy un 1
+619629 
+----largo: 0soy un 1
+623345 
+----largo: 0soy un 1
+627063 
+----largo: 0soy un 1
+630782 
+----largo: 0soy un 1
+634510 
+----largo: 0soy un 1
+638191 
+----largo: 0soy un 1
+641886 
+----largo: 0soy un 1
+645604 
+----largo: 0soy un 1
+649307 
+----largo: 0soy un 1
+653001 
+----largo: 0soy un 1
+656708 
+----largo: 0soy un 1
+660423 
+----largo: 0soy un 1
+664137 
+----largo: 0soy un 1
+667869 
+----largo: 0soy un 1
+671584 
+----largo: 0soy un 1
+675307 
+----largo: 0soy un 1
+679013 
+----largo: 0soy un 1
+682684 
+----largo: 0soy un 1
+686409 
+----largo: 0soy un 1
+690132 
+----largo: 0soy un 1
+693845 
+----largo: 0soy un 1
+697559 
+----largo: 0soy un 1
+701268 
+----largo: 0soy un 1
+704968 
+----largo: 0soy un 1
+708668 
+----largo: 0soy un 1
+712369 
+----largo: 0soy un 1
+716095 
+----largo: 0soy un 1
+719798 
+----largo: 0soy un 1
+723513 
+----largo: 0soy un 1
+727221 
+----largo: 0soy un 1
+730961 
+----largo: 0soy un 1
+734689 
+----largo: 0soy un 1
+738403 
+----largo: 0soy un 1
+742106 
+----largo: 0soy un 1
+745824 
+----largo: 0soy un 2
+749544 
+----largo: 0soy un 2
+753234 
+----largo: 0soy un 2
+756929 
+----largo: 0soy un 2
+760632 
+----largo: 0soy un 2
+764321 
+----largo: 0soy un 2
+767996 
+----largo: 0soy un 2
+771688 
+----largo: 0soy un 2
+775373 
+----largo: 0soy un 2
+779067 
+----largo: 0soy un 2
+782741 
+----largo: 0soy un 2
+786426 
+----largo: 0soy un 2
+790125 
+----largo: 0soy un 2
+793812 
+----largo: 0soy un 2
+797508 
+----largo: 0soy un 2
+801196 
+----largo: 0soy un 2
+804901 
+----largo: 0soy un 2
+808590 
+----largo: 0soy un 2
+812255 
+----largo: 0soy un 2
+815939 
+----largo: 0soy un 2
+819643 
+----largo: 0soy un 2
+823335 
+----largo: 0soy un 2
+827001 
+----largo: 0soy un 2
+830690 
+----largo: 0soy un 2
+834386 
+----largo: 0soy un 2
+838087 
+----largo: 0soy un 2
+841778 
+----largo: 0soy un 2
+845462 
+----largo: 0soy un 2
+849154 
+----largo: 0soy un 2
+852841 
+----largo: 0soy un 2
+856508 
+----largo: 0soy un 2
+860194 
+----largo: 0soy un 2
+863892 
+----largo: 0soy un 2
+867580 
+----largo: 0soy un 2
+871265 
+----largo: 0soy un 2
+874943 
+----largo: 0soy un 2
+878635 
+----largo: 0soy un 2
+882321 
+----largo: 0soy un 2
+886003 
+----largo: 0soy un 2
+889683 
+----largo: 0soy un 2
+893376 
+----largo: 0soy un 2
+897054 
+----largo: 0soy un 2
+900736 
+----largo: 0soy un 2
+904420 
+----largo: 0soy un 2
+908121 
+----largo: 0soy un 2
+911799 
+----largo: 0soy un 2
+915473 
+----largo: 0soy un 2
+919163 
+----largo: 0soy un 2
+922838 
+----largo: 0soy un 2
+926534 
+----largo: 0soy un 2
+930207 
+----largo: 0soy un 2
+933888 
+----largo: 0soy un 2
+937559 
+----largo: 0soy un 2
+941257 
+----largo: 0soy un 2
+944922 
+----largo: 0soy un 2
+948618 
+----largo: 0soy un 2
+952292 
+----largo: 0soy un 2
+955965 
+----largo: 0soy un 2
+959649 
+----largo: 0soy un 2
+963337 
+----largo: 0soy un 2
+967055 
+----largo: 0soy un 2
+970742 
+----largo: 0soy un 2
+974396 
+----largo: 0soy un 2
+978093 
+----largo: 0soy un 2
+981776 
+----largo: 0soy un 2
+985481 
+----largo: 0soy un 2
+989166 
+----largo: 0soy un 2
+992892 
+----largo: 0soy un 2
+996571 
+----largo: 0soy un 2
+1000260 
+----largo: 0soy un 2
+1003952 
+----largo: 0soy un 2
+1007641 
+----largo: 0soy un 2
+1011330 
+----largo: 0soy un 2
+1015024 
+----largo: 0soy un 2
+1018693 
+----largo: 0soy un 2
+1022368 
+----largo: 0soy un 2
+1026053 
+----largo: 0soy un 2
+1029742 
+----largo: 0soy un 2
+1033442 
+----largo: 0soy un 2
+1037140 
+----largo: 0soy un 2
+1040850 
+----largo: 0soy un 2
+1044516 
+----largo: 0soy un 2
+1048213 
+----largo: 0soy un 2
+1051904 
+----largo: 0soy un 2
+1055600 
+----largo: 0soy un 2
+1059293 
+----largo: 0soy un 2
+1062971 
+----largo: 0soy un 2
+1066659 
+----largo: 0soy un 2
+1070345 
+----largo: 0soy un 2
+1074045 
+----largo: 0soy un 2
+1077725 
+----largo: 0soy un 2
+1081422 
+----largo: 0soy un 2
+1085122 
+----largo: 0soy un 2
+1088802 
+----largo: 0soy un 2
+1092493 
+----largo: 0soy un 2
+1096183 
+----largo: 0soy un 2
+1099877 
+----largo: 0soy un 2
+1103581 
+----largo: 0soy un 2
+1107258 
+----largo: 0soy un 2
+1110951 
+----largo: 0soy un 2
+1114635 
+----largo: 0soy un 2
+1118337 
+----largo: 0soy un 3
+1122026 
+----largo: 0soy un 3
+1125698 
+----largo: 0soy un 3
+1129379 
+----largo: 0soy un 3
+1133063 
+----largo: 0soy un 3
+1136738 
+----largo: 0soy un 3
+1140448 
+----largo: 0soy un 3
+1144141 
+----largo: 0soy un 3
+1147813 
+----largo: 0soy un 3
+1151520 
+----largo: 0soy un 3
+1155228 
+----largo: 0soy un 3
+1158902 
+----largo: 0soy un 3
+1162593 
+----largo: 0soy un 3
+1166305 
+----largo: 0soy un 3
+1169996 
+----largo: 0soy un 3
+1173706 
+----largo: 0soy un 3
+1177401 
+----largo: 0soy un 3
+1181108 
+----largo: 0soy un 3
+1184793 
+----largo: 0soy un 3
+1188474 
+----largo: 0soy un 3
+1192155 
+----largo: 0soy un 3
+1195857 
+----largo: 0soy un 3
+1199529 
+----largo: 0soy un 3
+1203208 
+----largo: 0soy un 3
+1206904 
+----largo: 0soy un 3
+1210622 
+----largo: 0soy un 3
+1214292 
+----largo: 0soy un 3
+1217997 
+----largo: 0soy un 3
+1221699 
+----largo: 0soy un 3
+1225380 
+----largo: 0soy un 3
+1229088 
+----largo: 0soy un 3
+1232788 
+----largo: 0soy un 3
+1236491 
+----largo: 0soy un 3
+1240192 
+----largo: 0soy un 3
+1243882 
+----largo: 0soy un 3
+1247552 
+----largo: 0soy un 3
+1251251 
+----largo: 0soy un 3
+1254955 
+----largo: 0soy un 3
+1258657 
+----largo: 0soy un 3
+1262350 
+----largo: 0soy un 3
+1266033 
+----largo: 0soy un 3
+1269727 
+----largo: 0soy un 3
+1273423 
+----largo: 0soy un 3
+1277102 
+----largo: 0soy un 3
+1280762 
+----largo: 0soy un 3
+1284470 
+----largo: 0soy un 3
+1288150 
+----largo: 0soy un 3
+1291828 
+----largo: 0soy un 3
+1295540 
+----largo: 0soy un 3
+1299248 
+----largo: 0soy un 3
+1302942 
+----largo: 0soy un 3
+1306622 
+----largo: 0soy un 3
+1310284 
+----largo: 0soy un 3
+1313956 
+----largo: 0soy un 3
+1317640 
+----largo: 0soy un 3
+1321354 
+----largo: 0soy un 3
+1325058 
+----largo: 0soy un 3
+1328763 
+----largo: 0soy un 3
+1332457 
+----largo: 0soy un 3
+1336156 
+----largo: 0soy un 3
+1339851 
+----largo: 0soy un 3
+1343530 
+----largo: 0soy un 3
+1347215 
+----largo: 0soy un 3
+1350906 
+----largo: 0soy un 3
+1354598 
+----largo: 0soy un 3
+1358295 
+----largo: 0soy un 3
+1361968 
+----largo: 0soy un 3
+1365662 
+----largo: 0soy un 3
+1369357 
+----largo: 0soy un 3
+1373065 
+----largo: 0soy un 3
+1376772 
+----largo: 0soy un 3
+1380439 
+----largo: 0soy un 3
+1384128 
+----largo: 0soy un 3
+1387797 
+----largo: 0soy un 3
+1391491 
+----largo: 0soy un 3
+1395188 
+----largo: 0soy un 3
+1398873 
+----largo: 0soy un 3
+1402578 
+----largo: 0soy un 3
+1406276 
+----largo: 0soy un 3
+1409959 
+----largo: 0soy un 3
+1413647 
+----largo: 0soy un 3
+1417332 
+----largo: 0soy un 3
+1421038 
+----largo: 0soy un 3
+1424734 
+----largo: 0soy un 3
+1428428 
+----largo: 0soy un 3
+1432124 
+----largo: 0soy un 3
+1435827 
+----largo: 0soy un 3
+1439510 
+----largo: 0soy un 3
+1443203 
+----largo: 0soy un 3
+1446906 
+----largo: 0soy un 3
+1450579 
+----largo: 0soy un 3
+1454282 
+----largo: 0soy un 3
+1457970 
+----largo: 0soy un 3
+1461667 
+----largo: 0soy un 3
+1465364 
+----largo: 0soy un 3
+1469044 
+----largo: 0soy un 3
+1472725 
+----largo: 0soy un 3
+1476434 
+----largo: 0soy un 3
+1480146 
+----largo: 0soy un 3
+1483842 
+----largo: 0soy un 3
+1487544 
+----largo: 0soy un 3
+1491228 
+----largo: 0soy un 4
+1494923 
+----largo: 0soy un 4
+1498609 
+----largo: 0soy un 4
+1502308 
+----largo: 0soy un 4
+1505972 
+----largo: 0soy un 4
+1509662 
+----largo: 0soy un 4
+1513358 
+----largo: 0soy un 4
+1517056 
+----largo: 0soy un 4
+1520749 
+----largo: 0soy un 4
+1524414 
+----largo: 0soy un 4
+1528096 
+----largo: 0soy un 4
+1531797 
+----largo: 0soy un 4
+1535519 
+----largo: 0soy un 4
+1539211 
+----largo: 0soy un 4
+1542913 
+----largo: 0soy un 4
+1546596 
+----largo: 0soy un 4
+1550299 
+----largo: 0soy un 4
+1553989 
+----largo: 0soy un 4
+1557696 
+----largo: 0soy un 4
+1561385 
+----largo: 0soy un 4
+1565100 
+----largo: 0soy un 4
+1568799 
+----largo: 0soy un 4
+1572496 
+----largo: 0soy un 4
+1576186 
+----largo: 0soy un 4
+1579891 
+----largo: 0soy un 4
+1583594 
+----largo: 0soy un 4
+1587287 
+----largo: 0soy un 4
+1590996 
+----largo: 0soy un 4
+1594699 
+----largo: 0soy un 4
+1598399 
+----largo: 0soy un 4
+1602107 
+----largo: 0soy un 4
+1605792 
+----largo: 0soy un 4
+1609493 
+----largo: 0soy un 4
+1613184 
+----largo: 0soy un 4
+1616874 
+----largo: 0soy un 4
+1620582 
+----largo: 0soy un 4
+1624266 
+----largo: 0soy un 4
+1627965 
+----largo: 0soy un 4
+1631660 
+----largo: 0soy un 4
+1635346 
+----largo: 0soy un 4
+1639049 
+----largo: 0soy un 4
+1642744 
+----largo: 0soy un 4
+1646431 
+----largo: 0soy un 4
+1650136 
+----largo: 0soy un 4
+1653835 
+----largo: 0soy un 4
+1657540 
+----largo: 0soy un 4
+1661234 
+----largo: 0soy un 4
+1664919 
+----largo: 0soy un 4
+1668621 
+----largo: 0soy un 4
+1672319 
+----largo: 0soy un 4
+1676019 
+----largo: 0soy un 4
+1679737 
+----largo: 0soy un 4
+1683441 
+----largo: 0soy un 4
+1687155 
+----largo: 0soy un 4
+1690850 
+----largo: 0soy un 4
+1694562 
+----largo: 0soy un 4
+1698248 
+----largo: 0soy un 4
+1701957 
+----largo: 0soy un 4
+1705639 
+----largo: 0soy un 4
+1709343 
+----largo: 0soy un 4
+1713060 
+----largo: 0soy un 4
+1716714 
+----largo: 0soy un 4
+1720385 
+----largo: 0soy un 4
+1724077 
+----largo: 0soy un 4
+1727783 
+----largo: 0soy un 4
+1731478 
+----largo: 0soy un 4
+1735170 
+----largo: 0soy un 4
+1738858 
+----largo: 0soy un 4
+1742545 
+----largo: 0soy un 4
+1746254 
+----largo: 0soy un 4
+1749974 
+----largo: 0soy un 4
+1753672 
+----largo: 0soy un 4
+1757360 
+----largo: 0soy un 4
+1761074 
+----largo: 0soy un 4
+1764777 
+----largo: 0soy un 4
+1768485 
+----largo: 0soy un 4
+1772183 
+----largo: 0soy un 4
+1775875 
+----largo: 0soy un 4
+1779557 
+----largo: 0soy un 4
+1783267 
+----largo: 0soy un 4
+1786950 
+----largo: 0soy un 4
+1790640 
+----largo: 0soy un 4
+1794338 
+----largo: 0soy un 4
+1798032 
+----largo: 0soy un 4
+1801727 
+----largo: 0soy un 4
+1805418 
+----largo: 0soy un 4
+1809116 
+----largo: 0soy un 4
+1812809 
+----largo: 0soy un 4
+1816493 
+----largo: 0soy un 4
+1820178 
+----largo: 0soy un 4
+1823880 
+----largo: 0soy un 4
+1827582 
+----largo: 0soy un 4
+1831281 
+----largo: 0soy un 4
+1834988 
+----largo: 0soy un 4
+1838668 
+----largo: 0soy un 4
+1842348 
+----largo: 0soy un 4
+1846046 
+----largo: 0soy un 4
+1849752 
+----largo: 0soy un 4
+1853455 
+----largo: 0soy un 4
+1857162 
+----largo: 0soy un 4
+1860884 
+----largo: 0soy un 4
+1864570 
+----largo: 0soy un 5
+1868283 
+----largo: 0soy un 5
+1871969 
+----largo: 0soy un 5
+1875653 
+----largo: 0soy un 5
+1879363 
+----largo: 0soy un 5
+1883068 
+----largo: 0soy un 5
+1886768 
+----largo: 0soy un 5
+1890455 
+----largo: 0soy un 5
+1894150 
+----largo: 0soy un 5
+1897843 
+----largo: 0soy un 5
+1901542 
+----largo: 0soy un 5
+1905233 
+----largo: 0soy un 5
+1908927 
+----largo: 0soy un 5
+1912603 
+----largo: 0soy un 5
+1916295 
+----largo: 0soy un 5
+1919991 
+----largo: 0soy un 5
+1923676 
+----largo: 0soy un 5
+1927390 
+----largo: 0soy un 5
+1931078 
+----largo: 0soy un 5
+1934759 
+----largo: 0soy un 5
+1938455 
+----largo: 0soy un 5
+1942124 
+----largo: 0soy un 5
+1945820 
+----largo: 0soy un 5
+1949503 
+----largo: 0soy un 5
+1953194 
+----largo: 0soy un 5
+1956907 
+----largo: 0soy un 5
+1960588 
+----largo: 0soy un 5
+1964255 
+----largo: 0soy un 5
+1967945 
+----largo: 0soy un 5
+1971633 
+----largo: 0soy un 5
+1975318 
+----largo: 0soy un 5
+1979009 
+----largo: 0soy un 5
+1982690 
+----largo: 0soy un 5
+1986381 
+----largo: 0soy un 5
+1990044 
+----largo: 0soy un 5
+1993739 
+----largo: 0soy un 5
+1997437 
+----largo: 0soy un 5
+2001097 
+----largo: 0soy un 5
+2004791 
+----largo: 0soy un 5
+2008478 
+----largo: 0soy un 5
+2012169 
+----largo: 0soy un 5
+2015872 
+----largo: 0soy un 5
+2019560 
+----largo: 0soy un 5
+2023251 
+----largo: 0soy un 5
+2026954 
+----largo: 0soy un 5
+2030634 
+----largo: 0soy un 5
+2034335 
+----largo: 0soy un 5
+2038053 
+----largo: 0soy un 5
+2041731 
+----largo: 0soy un 5
+2045427 
+----largo: 0soy un 5
+2049110 
+----largo: 0soy un 5
+2052807 
+----largo: 0soy un 5
+2056490 
+----largo: 0soy un 5
+2060189 
+----largo: 0soy un 5
+2063884 
+----largo: 0soy un 5
+2067589 
+----largo: 0soy un 5
+2071277 
+----largo: 0soy un 5
+2074966 
+----largo: 0soy un 5
+2078661 
+----largo: 0soy un 5
+2082352 
+----largo: 0soy un 5
+2086045 
+----largo: 0soy un 5
+2089734 
+----largo: 0soy un 5
+2093430 
+----largo: 0soy un 5
+2097116 
+----largo: 0soy un 5
+2100805 
+----largo: 0soy un 5
+2104497 
+----largo: 0soy un 5
+2108179 
+----largo: 0soy un 5
+2111842 
+----largo: 0soy un 5
+2115525 
+----largo: 0soy un 5
+2119218 
+----largo: 0soy un 5
+2122913 
+----largo: 0soy un 5
+2126613 
+----largo: 0soy un 5
+2130294 
+----largo: 0soy un 5
+2133996 
+----largo: 0soy un 5
+2137698 
+----largo: 0soy un 5
+2141385 
+----largo: 0soy un 5
+2145065 
+----largo: 0soy un 5
+2148754 
+----largo: 0soy un 5
+2152437 
+----largo: 0soy un 5
+2156122 
+----largo: 0soy un 5
+2159809 
+----largo: 0soy un 5
+2163498 
+----largo: 0soy un 5
+2167185 
+----largo: 0soy un 5
+2170868 
+----largo: 0soy un 5
+2174545 
+----largo: 0soy un 5
+2178238 
+----largo: 0soy un 5
+2181924 
+----largo: 0soy un 5
+2185593 
+----largo: 0soy un 5
+2189299 
+----largo: 0soy un 5
+2192973 
+----largo: 0soy un 5
+2196642 
+----largo: 0soy un 5
+2200327 
+----largo: 0soy un 5
+2204021 
+----largo: 0soy un 5
+2207709 
+----largo: 0soy un 5
+2211395 
+----largo: 0soy un 5
+2215084 
+----largo: 0soy un 5
+2218785 
+----largo: 0soy un 5
+2222488 
+----largo: 0soy un 5
+2226182 
+----largo: 0soy un 5
+2229864 
+----largo: 0soy un 5
+2233547 
+----largo: 0soy un 5
+2237227 
+----largo: 0soy un 6
+2240916 
+----largo: 0soy un 6
+2244619 
+----largo: 0soy un 6
+2248320 
+----largo: 0soy un 6
+2252015 
+----largo: 0soy un 6
+2255706 
+----largo: 0soy un 6
+2259405 
+----largo: 0soy un 6
+2263098 
+----largo: 0soy un 6
+2266791 
+----largo: 0soy un 6
+2270449 
+----largo: 0soy un 6
+2274134 
+----largo: 0soy un 6
+2277827 
+----largo: 0soy un 6
+2281529 
+----largo: 0soy un 6
+2285219 
+----largo: 0soy un 6
+2288907 
+----largo: 0soy un 6
+2292595 
+----largo: 0soy un 6
+2296292 
+----largo: 0soy un 6
+2299993 
+----largo: 0soy un 6
+2303681 
+----largo: 0soy un 6
+2307384 
+----largo: 0soy un 6
+2311079 
+----largo: 0soy un 6
+2314779 
+----largo: 0soy un 6
+2318494 
+----largo: 0soy un 6
+2322183 
+----largo: 0soy un 6
+2325863 
+----largo: 0soy un 6
+2329559 
+----largo: 0soy un 6
+2333242 
+----largo: 0soy un 6
+2336942 
+----largo: 0soy un 6
+2340639 
+----largo: 0soy un 6
+2344306 
+----largo: 0soy un 6
+2347983 
+----largo: 0soy un 6
+2351675 
+----largo: 0soy un 6
+2355383 
+----largo: 0soy un 6
+2359078 
+----largo: 0soy un 6
+2362776 
+----largo: 0soy un 6
+2366485 
+----largo: 0soy un 6
+2370188 
+----largo: 0soy un 6
+2373891 
+----largo: 0soy un 6
+2377605 
+----largo: 0soy un 6
+2381326 
+----largo: 0soy un 6
+2385022 
+----largo: 0soy un 6
+2388721 
+----largo: 0soy un 6
+2392411 
+----largo: 0soy un 6
+2396105 
+----largo: 0soy un 6
+2399781 
+----largo: 0soy un 6
+2403449 
+----largo: 0soy un 6
+2407137 
+----largo: 0soy un 6
+2410824 
+----largo: 0soy un 6
+2414510 
+----largo: 0soy un 6
+2418185 
+----largo: 0soy un 6
+2421869 
+----largo: 0soy un 6
+2425558 
+----largo: 0soy un 6
+2429249 
+----largo: 0soy un 6
+2432953 
+----largo: 0soy un 6
+2436633 
+----largo: 0soy un 6
+2440311 
+----largo: 0soy un 6
+2444020 
+----largo: 0soy un 6
+2447704 
+----largo: 0soy un 6
+2451410 
+----largo: 0soy un 6
+2455099 
+----largo: 0soy un 6
+2458791 
+----largo: 0soy un 6
+2462484 
+----largo: 0soy un 6
+2466180 
+----largo: 0soy un 6
+2469878 
+----largo: 0soy un 6
+2473579 
+----largo: 0soy un 6
+2477261 
+----largo: 0soy un 6
+2480957 
+----largo: 0soy un 6
+2484651 
+----largo: 0soy un 6
+2488343 
+----largo: 0soy un 6
+2492029 
+----largo: 0soy un 6
+2495722 
+----largo: 0soy un 6
+2499428 
+----largo: 0soy un 6
+2503123 
+----largo: 0soy un 6
+2506787 
+----largo: 0soy un 6
+2510485 
+----largo: 0soy un 6
+2514162 
+----largo: 0soy un 6
+2517855 
+----largo: 0soy un 6
+2521552 
+----largo: 0soy un 6
+2525234 
+----largo: 0soy un 6
+2528929 
+----largo: 0soy un 6
+2532605 
+----largo: 0soy un 6
+2536312 
+----largo: 0soy un 6
+2539997 
+----largo: 0soy un 6
+2543701 
+----largo: 0soy un 6
+2547398 
+----largo: 0soy un 6
+2551082 
+----largo: 0soy un 6
+2554753 
+----largo: 0soy un 6
+2558454 
+----largo: 0soy un 6
+2562159 
+----largo: 0soy un 6
+2565864 
+----largo: 0soy un 6
+2569558 
+----largo: 0soy un 6
+2573249 
+----largo: 0soy un 6
+2576954 
+----largo: 0soy un 6
+2580643 
+----largo: 0soy un 6
+2584333 
+----largo: 0soy un 6
+2588017 
+----largo: 0soy un 6
+2591703 
+----largo: 0soy un 6
+2595401 
+----largo: 0soy un 6
+2599098 
+----largo: 0soy un 6
+2602809 
+----largo: 0soy un 6
+2606501 
+----largo: 0soy un 6
+2610217 
+----largo: 0soy un 7
+2613904 
+----largo: 0soy un 7
+2617594 
+----largo: 0soy un 7
+2621308 
+----largo: 0soy un 7
+2624994 
+----largo: 0soy un 7
+2628669 
+----largo: 0soy un 7
+2632371 
+----largo: 0soy un 7
+2636076 
+----largo: 0soy un 7
+2639767 
+----largo: 0soy un 7
+2643481 
+----largo: 0soy un 7
+2647175 
+----largo: 0soy un 7
+2650895 
+----largo: 0soy un 7
+2654578 
+----largo: 0soy un 7
+2658286 
+----largo: 0soy un 7
+2661979 
+----largo: 0soy un 7
+2665664 
+----largo: 0soy un 7
+2669372 
+----largo: 0soy un 7
+2673077 
+----largo: 0soy un 7
+2676757 
+----largo: 0soy un 7
+2680439 
+----largo: 0soy un 7
+2684135 
+----largo: 0soy un 7
+2687823 
+----largo: 0soy un 7
+2691520 
+----largo: 0soy un 7
+2695229 
+----largo: 0soy un 7
+2698920 
+----largo: 0soy un 7
+2702624 
+----largo: 0soy un 7
+2706319 
+----largo: 0soy un 7
+2710005 
+----largo: 0soy un 7
+2713701 
+----largo: 0soy un 7
+2717392 
+----largo: 0soy un 7
+2721094 
+----largo: 0soy un 7
+2724792 
+----largo: 0soy un 7
+2728495 
+----largo: 0soy un 7
+2732180 
+----largo: 0soy un 7
+2735882 
+----largo: 0soy un 7
+2739579 
+----largo: 0soy un 7
+2743266 
+----largo: 0soy un 7
+2746992 
+----largo: 0soy un 7
+2750689 
+----largo: 0soy un 7
+2754384 
+----largo: 0soy un 7
+2758069 
+----largo: 0soy un 7
+2761738 
+----largo: 0soy un 7
+2765427 
+----largo: 0soy un 7
+2769139 
+----largo: 0soy un 7
+2772844 
+----largo: 0soy un 7
+2776533 
+----largo: 0soy un 7
+2780249 
+----largo: 0soy un 7
+2783931 
+----largo: 0soy un 7
+2787631 
+----largo: 0soy un 7
+2791326 
+----largo: 0soy un 7
+2795028 
+----largo: 0soy un 7
+2798729 
+----largo: 0soy un 7
+2802454 
+----largo: 0soy un 7
+2806141 
+----largo: 0soy un 7
+2809856 
+----largo: 0soy un 7
+2813555 
+----largo: 0soy un 7
+2817257 
+----largo: 0soy un 7
+2820948 
+----largo: 0soy un 7
+2824659 
+----largo: 0soy un 7
+2828362 
+----largo: 0soy un 7
+2832053 
+----largo: 0soy un 7
+2835747 
+----largo: 0soy un 7
+2839451 
+----largo: 0soy un 7
+2843148 
+----largo: 0soy un 7
+2846845 
+----largo: 0soy un 7
+2850543 
+----largo: 0soy un 7
+2854219 
+----largo: 0soy un 7
+2857904 
+----largo: 0soy un 7
+2861590 
+----largo: 0soy un 7
+2865293 
+----largo: 0soy un 7
+2868987 
+----largo: 0soy un 7
+2872691 
+----largo: 0soy un 7
+2876383 
+----largo: 0soy un 7
+2880098 
+----largo: 0soy un 7
+2883811 
+----largo: 0soy un 7
+2887512 
+----largo: 0soy un 7
+2891205 
+----largo: 0soy un 7
+2894885 
+----largo: 0soy un 7
+2898588 
+----largo: 0soy un 7
+2902311 
+----largo: 0soy un 7
+2906010 
+----largo: 0soy un 7
+2909703 
+----largo: 0soy un 7
+2913410 
+----largo: 0soy un 7
+2917100 
+----largo: 0soy un 7
+2920788 
+----largo: 0soy un 7
+2924473 
+----largo: 0soy un 7
+2928162 
+----largo: 0soy un 7
+2931854 
+----largo: 0soy un 7
+2935565 
+----largo: 0soy un 7
+2939258 
+----largo: 0soy un 7
+2942942 
+----largo: 0soy un 7
+2946649 
+----largo: 0soy un 7
+2950354 
+----largo: 0soy un 7
+2954031 
+----largo: 0soy un 7
+2957738 
+----largo: 0soy un 7
+2961424 
+----largo: 0soy un 7
+2965130 
+----largo: 0soy un 7
+2968822 
+----largo: 0soy un 7
+2972512 
+----largo: 0soy un 7
+2976195 
+----largo: 0soy un 7
+2979885 
+----largo: 0soy un 7
+2983584 
+----largo: 0soy un 8
+2987293 
+----largo: 0soy un 8
+2990995 
+----largo: 0soy un 8
+2994659 
+----largo: 0soy un 8
+2998355 
+----largo: 0soy un 8
+3002031 
+----largo: 0soy un 8
+3005700 
+----largo: 0soy un 8
+3009387 
+----largo: 0soy un 8
+3013070 
+----largo: 0soy un 8
+3016763 
+----largo: 0soy un 8
+3020447 
+----largo: 0soy un 8
+3024130 
+----largo: 0soy un 8
+3027823 
+----largo: 0soy un 8
+3031499 
+----largo: 0soy un 8
+3035178 
+----largo: 0soy un 8
+3038844 
+----largo: 0soy un 8
+3042524 
+----largo: 0soy un 8
+3046217 
+----largo: 0soy un 8
+3049906 
+----largo: 0soy un 8
+3053594 
+----largo: 0soy un 8
+3057293 
+----largo: 0soy un 8
+3060976 
+----largo: 0soy un 8
+3064674 
+----largo: 0soy un 8
+3068379 
+----largo: 0soy un 8
+3072066 
+----largo: 0soy un 8
+3075759 
+----largo: 0soy un 8
+3079459 
+----largo: 0soy un 8
+3083143 
+----largo: 0soy un 8
+3086822 
+----largo: 0soy un 8
+3090472 
+----largo: 0soy un 8
+3094148 
+----largo: 0soy un 8
+3097835 
+----largo: 0soy un 8
+3101534 
+----largo: 0soy un 8
+3105205 
+----largo: 0soy un 8
+3108870 
+----largo: 0soy un 8
+3112548 
+----largo: 0soy un 8
+3116238 
+----largo: 0soy un 8
+3119920 
+----largo: 0soy un 8
+3123596 
+----largo: 0soy un 8
+3127289 
+----largo: 0soy un 8
+3130959 
+----largo: 0soy un 8
+3134650 
+----largo: 0soy un 8
+3138337 
+----largo: 0soy un 8
+3142034 
+----largo: 0soy un 8
+3145701 
+----largo: 0soy un 8
+3149414 
+----largo: 0soy un 8
+3153101 
+----largo: 0soy un 8
+3156772 
+----largo: 0soy un 8
+3160457 
+----largo: 0soy un 8
+3164143 
+----largo: 0soy un 8
+3167819 
+----largo: 0soy un 8
+3171487 
+----largo: 0soy un 8
+3175193 
+----largo: 0soy un 8
+3178890 
+----largo: 0soy un 8
+3182569 
+----largo: 0soy un 8
+3186269 
+----largo: 0soy un 8
+3189990 
+----largo: 0soy un 8
+3193682 
+----largo: 0soy un 8
+3197366 
+----largo: 0soy un 8
+3201072 
+----largo: 0soy un 8
+3204756 
+----largo: 0soy un 8
+3208441 
+----largo: 0soy un 8
+3212142 
+----largo: 0soy un 8
+3215826 
+----largo: 0soy un 8
+3219522 
+----largo: 0soy un 8
+3223203 
+----largo: 0soy un 8
+3226886 
+----largo: 0soy un 8
+3230589 
+----largo: 0soy un 8
+3234260 
+----largo: 0soy un 8
+3237949 
+----largo: 0soy un 8
+3241639 
+----largo: 0soy un 8
+3245345 
+----largo: 0soy un 8
+3249044 
+----largo: 0soy un 8
+3252733 
+----largo: 0soy un 8
+3256384 
+----largo: 0soy un 8
+3260110 
+----largo: 0soy un 8
+3263814 
+----largo: 0soy un 8
+3267506 
+----largo: 0soy un 8
+3271191 
+----largo: 0soy un 8
+3274893 
+----largo: 0soy un 8
+3278589 
+----largo: 0soy un 8
+3282273 
+----largo: 0soy un 8
+3285936 
+----largo: 0soy un 8
+3289638 
+----largo: 0soy un 8
+3293333 
+----largo: 0soy un 8
+3297015 
+----largo: 0soy un 8
+3300710 
+----largo: 0soy un 8
+3304384 
+----largo: 0soy un 8
+3308075 
+----largo: 0soy un 8
+3311768 
+----largo: 0soy un 8
+3315447 
+----largo: 0soy un 8
+3319136 
+----largo: 0soy un 8
+3322838 
+----largo: 0soy un 8
+3326521 
+----largo: 0soy un 8
+3330208 
+----largo: 0soy un 8
+3333903 
+----largo: 0soy un 8
+3337609 
+----largo: 0soy un 8
+3341298 
+----largo: 0soy un 8
+3345009 
+----largo: 0soy un 8
+3348705 
+----largo: 0soy un 8
+3352382 
+----largo: 0soy un 8
+3356063 
+----largo: 0soy un 9
+3359759 
+----largo: 0soy un 9
+3363456 
+----largo: 0soy un 9
+3367146 
+----largo: 0soy un 9
+3370843 
+----largo: 0soy un 9
+3374528 
+----largo: 0soy un 9
+3378225 
+----largo: 0soy un 9
+3381917 
+----largo: 0soy un 9
+3385624 
+----largo: 0soy un 9
+3389324 
+----largo: 0soy un 9
+3393032 
+----largo: 0soy un 9
+3396728 
+----largo: 0soy un 9
+3400438 
+----largo: 0soy un 9
+3404120 
+----largo: 0soy un 9
+3407819 
+----largo: 0soy un 9
+3411517 
+----largo: 0soy un 9
+3415229 
+----largo: 0soy un 9
+3418919 
+----largo: 0soy un 9
+3422613 
+----largo: 0soy un 9
+3426306 
+----largo: 0soy un 9
+3430002 
+----largo: 0soy un 9
+3433707 
+----largo: 0soy un 9
+3437410 
+----largo: 0soy un 9
+3441129 
+----largo: 0soy un 9
+3444826 
+----largo: 0soy un 9
+3448536 
+----largo: 0soy un 9
+3452220 
+----largo: 0soy un 9
+3455890 
+----largo: 0soy un 9
+3459588 
+----largo: 0soy un 9
+3463270 
+----largo: 0soy un 9
+3466964 
+----largo: 0soy un 9
+3470678 
+----largo: 0soy un 9
+3474391 
+----largo: 0soy un 9
+3478097 
+----largo: 0soy un 9
+3481796 
+----largo: 0soy un 9
+3485492 
+----largo: 0soy un 9
+3489201 
+----largo: 0soy un 9
+3492885 
+----largo: 0soy un 9
+3496585 
+----largo: 0soy un 9
+3500258 
+----largo: 0soy un 9
+3503960 
+----largo: 0soy un 9
+3507664 
+----largo: 0soy un 9
+3511361 
+----largo: 0soy un 9
+3515063 
+----largo: 0soy un 9
+3518768 
+----largo: 0soy un 9
+3522436 
+----largo: 0soy un 9
+3526138 
+----largo: 0soy un 9
+3529849 
+----largo: 0soy un 9
+3533548 
+----largo: 0soy un 9
+3537238 
+----largo: 0soy un 9
+3540930 
+----largo: 0soy un 9
+3544627 
+----largo: 0soy un 9
+3548322 
+----largo: 0soy un 9
+3552031 
+----largo: 0soy un 9
+3555744 
+----largo: 0soy un 9
+3559457 
+----largo: 0soy un 9
+3563161 
+----largo: 0soy un 9
+3566862 
+----largo: 0soy un 9
+3570562 
+----largo: 0soy un 9
+3574267 
+----largo: 0soy un 9
+3577978 
+----largo: 0soy un 9
+3581690 
+----largo: 0soy un 9
+3585397 
+----largo: 0soy un 9
+3589099 
+----largo: 0soy un 9
+3592810 
+----largo: 0soy un 9
+3596512 
+----largo: 0soy un 9
+3600203 
+----largo: 0soy un 9
+3603910 
+----largo: 0soy un 9
+3607622 
+----largo: 0soy un 9
+3611312 
+----largo: 0soy un 9
+3615005 
+----largo: 0soy un 9
+3618707 
+----largo: 0soy un 9
+3622402 
+----largo: 0soy un 9
+3626115 
+----largo: 0soy un 9
+3629817 
+----largo: 0soy un 9
+3633513 
+----largo: 0soy un 9
+3637194 
+----largo: 0soy un 9
+3640889 
+----largo: 0soy un 9
+3644585 
+----largo: 0soy un 9
+3648277 
+----largo: 0soy un 9
+3651984 
+----largo: 0soy un 9
+3655669 
+----largo: 0soy un 9
+3659347 
+----largo: 0soy un 9
+3663048 
+----largo: 0soy un 9
+3666740 
+----largo: 0soy un 9
+3670440 
+----largo: 0soy un 9
+3674134 
+----largo: 0soy un 9
+3677809 
+----largo: 0soy un 9
+3681510 
+----largo: 0soy un 9
+3685224 
+----largo: 0soy un 9
+3688913 
+----largo: 0soy un 9
+3692577 

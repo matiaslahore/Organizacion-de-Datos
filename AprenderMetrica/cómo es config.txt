@@ -1,0 +1,5 @@
+ifstream conf("config.txt");
+	conf>>TARGET_NEIGHBORS;//cuántos buscar cuando buscar los target neighbours
+	conf>>ARCHIVO_ENTRADA;//archivo de entrada (el set)
+	conf>>ARCHIVO_NEIGHBORS;//archivo de neighbors (que se produce y o se lee)
+	conf>>cantidad;//cantidad de imágenes en el set

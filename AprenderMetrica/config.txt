@@ -1,0 +1,4 @@
+5
+milnumeros14x14.csv
+neighbors.txt
+1000

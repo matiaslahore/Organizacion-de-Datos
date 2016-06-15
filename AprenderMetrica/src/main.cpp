@@ -10,6 +10,11 @@
 #include <Eigen/Eigenvalues>
 #include <algorithm>
 #include <iterator>
+
+int TARGET_NEIGHBORS = 5;
+std::string ARCHIVO_ENTRADA("train.csv");
+std::string  ARCHIVO_NEIGHBORS("TargetNeighbours.dat");
+
 /**
  * Necesito que el archivo venga en 
  * "exactamente" el mismo formato que 
@@ -50,14 +55,29 @@ void obtenerEntraron(	ConjuntoActiveSets& entraron,
 }
 
 int main(int argc, char* argv[]){
+	cout<<"DIMENSIONES A LEER: "<<DIMENSIONES<<endl;
+	ulint cantidad;
+	ifstream conf("config.txt");
+	conf>>TARGET_NEIGHBORS;
+	cout<<TARGET_NEIGHBORS<<endl;
+	
+	conf>>ARCHIVO_ENTRADA;
+	cout<<ARCHIVO_ENTRADA<<endl;
+	
+	conf>>ARCHIVO_NEIGHBORS;
+	cout<<ARCHIVO_NEIGHBORS<<endl;
+	
+	conf>>cantidad;
+	cout<<cantidad<<endl;
+	
 	if(argc==1){
 		cout<<"Y los argumentos?"<<endl;
 	}else{
 		if(argv[1][0]=='n'){
 			cout<<"Recalculando target neighbours"<<endl;
 			ArchivoTrain archivo;
-			archivo.conectarTargetNeighbors(5,0,1000);
-			archivo.guardarTargetNeighbours(0,1000);
+			archivo.conectarTargetNeighbors(5,0,cantidad);
+			archivo.guardarTargetNeighbours(0,cantidad);
 		}else if(argv[1][0]=='m'){
 			ofstream off("M.dat");
 			cout<<"Voy a calcular la matriz M"<<endl;
@@ -71,11 +91,16 @@ int main(int argc, char* argv[]){
 			
 			
 			
-			for(int i = 0; i<2; i++){//while not converged do
+			for(int i = 0; i<100000; i++){//while not converged do
 				cout<<"Iniciando nueva iteracion:"<<i<<endl;
 				if(i==0){//if mod(i,10)==0 || casi convergencia then
 					posibles_activos.clear();
 					neighbors.agregarActiveSets(posibles_activos);//compute Nt+1 exactly
+					//(es inviable hacer la búsqueda de active sets con la distancia Mahalanobis)
+					activos = posibles_activos;//update active set
+				}else if(i%100==0){
+					posibles_activos.clear();
+					neighbors.agregarActiveSets(posibles_activos,m);//compute Nt+1 exactly
 					//(es inviable hacer la búsqueda de active sets con la distancia Mahalanobis)
 					activos = posibles_activos;//update active set
 				}else{
@@ -105,6 +130,13 @@ int main(int argc, char* argv[]){
 				Matriz v = solver.pseudoEigenvectors();
 				filtrarNegativos(delta);//proyección sobre semidefinidas positivas
 				m=v*delta*v.transpose();//take gradient step
+				
+				
+				//guardo la iteracion:
+				ostringstream oss;
+				oss<<DIMENSIONES<<"/M"<<i<<".mat";
+				ofstream off(oss.str().c_str());
+				off<<m;
 				
 			}
 			

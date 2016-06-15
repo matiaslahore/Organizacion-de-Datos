@@ -19,11 +19,14 @@ void ArchivoTrain::parsearFila(const string& fila,vector<float>& en){
 	}
 }
 void ArchivoTrain::parsearPosicion(streampos pos,vector<float>& en){
-	entrada.open("entrada.csv");//así gunciona seekg (???????)
-	char fila[2048];
-	entrada.seekg(pos,ios_base::beg).getline(fila,2048);
+	entrada.open(ARCHIVO_ENTRADA.c_str());//así gunciona seekg (???????)
+	char fila[10000];
+	//string fila;
+	entrada.seekg(pos,ios_base::beg).getline(fila,10000);
+	//getline(entrada,fila);
 	//cout<<"Desde posicon: "<<pos<<endl;
 	//cout<<"esta es:"<<entrada.seekg(pos,ios_base::beg).tellg()<<endl;
+	//cout<<fila<<endl;
 	parsearFila(fila,en);
 	entrada.close();
 }
@@ -41,7 +44,7 @@ int ArchivoTrain::detectarDimensiones(const string& primera_linea){
 }
 
 ArchivoTrain::ArchivoTrain(){
-	entrada.open("entrada.csv");
+	entrada.open(ARCHIVO_ENTRADA.c_str());
 	//----------inicializar la cantidad de dimensiones-------//
 	string primera_linea;
 	getline(entrada,primera_linea);
@@ -74,12 +77,15 @@ void ArchivoTrain::conectarTargetNeighbors(int k,ulint desde, ulint hasta){
 	ulint total = hasta-desde;
 	//for(it = entradas.begin(); it!=entradas.end(); ++it){
 	for(ulint i =desde; i<hasta; ++i){
-		conectarleTargetNeighbors(entradas[i],k);
+		try{
+			conectarleTargetNeighbors(entradas[i],k);
+		
 		time_t tiempo_actual = clock();
 		float segundos = (float)(tiempo_actual - tiempo_inicio) / CLOCKS_PER_SEC;
 		float proporcion = (float)(i-desde)/(float)total;
 		float estimacion = segundos/proporcion;
 		cout<<"Procesadas: "<<proporcion*100<<"%"<<"Segundos estimados:"<<estimacion<<"Horas: "<<estimacion/3600<<endl;
+		}catch(...){}
 	}
 }
 
@@ -88,7 +94,7 @@ void ArchivoTrain::conectarleTargetNeighbors(Entrada& a,int k){
 	a.setCantidadTargetNeighbors(k);
 	Imagen img_a(*this,a);
 	vector<Entrada>::iterator it;
-	entrada.open("entrada.csv");
+	entrada.open(ARCHIVO_ENTRADA.c_str());
 	long unsigned int pos_final = 0;
 	entrada.seekg(entradas[0].posicion);
 	
@@ -149,7 +155,7 @@ long unsigned int ArchivoTrain::neighborsEnBloque(Imagen& a, ulint p_inicial, ul
 
 void ArchivoTrain::guardarTargetNeighbours(ulint desde, ulint hasta){
 	ofstream salida;
-	salida.open("TargetNeighbours.dat");
+	salida.open(ARCHIVO_NEIGHBORS.c_str());
 	/*
 	vector<Entrada>::iterator it;
 	//for(it=entradas.begin(); it!=entradas.end(); ++it){

@@ -11,12 +11,17 @@ ArchivoNeighbors::ArchivoNeighbors(ArchivoTrain& t):train(t){
 }
 
 void ArchivoNeighbors::conectarImagenes(){
-	ifstream iAdyacencias(ARCHIVO_NEIGHBORS);
+	ifstream iAdyacencias(ARCHIVO_NEIGHBORS.c_str());
 	while(!iAdyacencias.eof()){
 		ulint mi_posicion;
 		iAdyacencias >> mi_posicion;
-		Imagen* correspondiente = imagenes[mi_posicion];
 		
+		Imagen* correspondiente = imagenes[mi_posicion];
+		if(correspondiente==NULL){
+			imagenes.erase(mi_posicion);
+		}
+		
+		if(correspondiente!=NULL)
 		for(int i = 0; i < TARGET_NEIGHBORS; i++){
 			ulint otra_posicion;
 			iAdyacencias >> otra_posicion;
