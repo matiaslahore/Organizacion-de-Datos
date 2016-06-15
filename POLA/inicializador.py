@@ -52,7 +52,8 @@ for i in range(100):
 	dist += uno.distanciaA(dos,identidad)/100
 
 #guardar la matriz
-numpy.savetxt('matriz',identidad,delimiter=',')
+ceros = numpy.zeros((archivo.dimensiones(),archivo.dimensiones()))
+numpy.savetxt('matriz',ceros,delimiter=',')
 
 #guardar b
 archivob = open("archivob","w")

@@ -119,11 +119,27 @@ int main(int argc, char* argv[]){
 				neighbors.calcularSegundoTerminoGradiente(gSuma,entraron);
 				g+=g-gResta+gSuma;//sumaresta de gradientes
 				
+				//Mostrame G!
+				ostringstream oss1;
+				oss1<<"matrices/"<<DIMENSIONES<<"G"<<i<<".matriz";
+				ofstream off1(oss1.str().c_str());
+				off1<<g;
+				
+				
 				cout<<"Descmponiendo las matrices"<<endl;
-				Matriz m_def = m-0.1*g;//Mt-alfa*Gt+1
+				Matriz m_def = m-0.001*g;//Mt-alfa*Gt+1
 				Eigen::EigenSolver<Matriz> solver(m_def);
 				Matriz delta = solver.pseudoEigenvalueMatrix();
 				Matriz v = solver.pseudoEigenvectors();
+				
+				
+				//Mostrame delta!
+				ostringstream oss2;
+				oss2<<"matrices/"<<DIMENSIONES<<"delta"<<i<<".matriz";
+				ofstream off2(oss2.str().c_str());
+				off2<<delta;
+				
+				
 				filtrarNegativos(delta);//proyección sobre semidefinidas positivas
 				m=v*delta*v.transpose();//take gradient step
 				

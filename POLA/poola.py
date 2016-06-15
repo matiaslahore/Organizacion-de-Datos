@@ -19,7 +19,7 @@ def obtenerMenorAvaYSuAve(matriz):
 	w,v = numpy.linalg.eig(matriz)
 	menor = 0
 	for i in range(fils(w)):
-		if(w[i]<w[menor]):
+		if(not isinstance(w[i], complex) and w[i]<w[menor]):
 			menor = i
 	return w[menor],v[:,menor]
 
@@ -38,21 +38,27 @@ class Pola:
 		
 	def __init__(self,dimensiones):
 		#cargar matriz
-		reader = csv.reader(open("matriz","rb"),delimiter=',')
+		archivoM = open("matriz","rb")
+		reader = csv.reader(archivoM,delimiter=',')
 		x = list(reader)
 		self.matriz = numpy.array(x).astype('float')
+		archivoM.close()
 		#cargar b
 		archivob = open("archivob","rb")
 		self.b = float(archivob.readline())
+		archivob.close()
 	def introducir(self,img1,img2):
+		v = img1.representacion - img2.representacion
+		if numpy.linalg.norm(v)==0 : return
 		y = 1 if img1.label == img2.label else -1
 		perdida = self.perdida(img1,img2,y)
 		if perdida>0 :
 			global correcciones
 			correcciones += 1
-			v = img1.representacion - img2.representacion
+			
 			alfa = perdida/(1+numpy.linalg.norm(v)**4)
-			aTecho = self.matriz - y * alfa * v.dot(numpy.transpose(v))
+			
+			aTecho = self.matriz - y * alfa * numpy.outer(v,v)
 			bTecho = self.b + y * alfa
 
 			if y==1 :
@@ -60,9 +66,12 @@ class Pola:
 				lambda_n, u_n = obtenerMenorAvaYSuAve(self.matriz)
 				
 				if lambda_n<0:
-					self.matriz = self.matriz - lambda_n*u_n.dot(numpy.transpose(u_n))
+					self.matriz = self.matriz - lambda_n*numpy.outer(u_n,u_n)
+				else:
+					self.matriz = aTecho
 			else:
 				self.b = max(bTecho,1)
+				self.matriz = aTecho
 		
 class Archivo:
 	def __init__(self):
@@ -82,7 +91,7 @@ class Archivo:
 	def dimensiones(self):
 		return cols(self.imagenes)
 
-
+#print(numpy.outer([2,1],[1,1]))
 if(len(sys.argv)<2):
 	print("el argumento es el numero de segundos que queres que compute")
 else:

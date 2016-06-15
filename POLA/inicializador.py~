@@ -1,6 +1,8 @@
 import csv
 import numpy
 import random
+import sys
+
 def cols(matriz):
 	return matriz.shape[1]
 def fils(matriz):
@@ -40,6 +42,7 @@ class Archivo:
 	def dimensiones(self):
 		return cols(self.imagenes)
 
+
 archivo = Archivo()
 identidad = numpy.identity(archivo.dimensiones())
 dist = 0
@@ -49,7 +52,8 @@ for i in range(100):
 	dist += uno.distanciaA(dos,identidad)/100
 
 #guardar la matriz
-numpy.savetxt('matriz',identidad,delimiter=',')
+ceros = numpy.zeros(archivo.dimensiones(),archivo.dimensiones())
+numpy.savetxt('matriz',ceros,delimiter=',')
 
 #guardar b
 archivob = open("archivob","w")
