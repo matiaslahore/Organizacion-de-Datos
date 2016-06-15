@@ -91,7 +91,8 @@ int main(int argc, char* argv[]){
 			
 			
 			
-			for(int i = 0; i<100000; i++){//while not converged do
+			for(int i = 0; i<10000; i++){//while not converged do
+			
 				cout<<"Iniciando nueva iteracion:"<<i<<endl;
 				if(i==0){//if mod(i,10)==0 || casi convergencia then
 					posibles_activos.clear();
@@ -131,13 +132,12 @@ int main(int argc, char* argv[]){
 				filtrarNegativos(delta);//proyección sobre semidefinidas positivas
 				m=v*delta*v.transpose();//take gradient step
 				
-				
 				//guardo la iteracion:
 				ostringstream oss;
-				oss<<DIMENSIONES<<"/M"<<i<<".mat";
+				oss<<"matrices/"<<DIMENSIONES<<"M"<<i<<".matriz";
 				ofstream off(oss.str().c_str());
 				off<<m;
-				
+				cout<<"Guardo la matriz como "<<oss.str()<<endl;
 			}
 			
 			off<<m;//output Mt
