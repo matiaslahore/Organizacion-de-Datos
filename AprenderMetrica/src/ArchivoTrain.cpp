@@ -15,7 +15,7 @@ void ArchivoTrain::parsearFila(const string& fila,vector<float>& en){
 		istringstream stream_numero(numero);
 		float obtenido;
 		stream_numero>>obtenido;
-		en.push_back(obtenido);
+		en.push_back(obtenido*FACTOR_AMPLIACION);
 	}
 }
 void ArchivoTrain::parsearPosicion(streampos pos,vector<float>& en){

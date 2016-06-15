@@ -83,13 +83,10 @@ int main(int argc, char* argv[]){
 			cout<<"Voy a calcular la matriz M"<<endl;
 			ArchivoTrain archivo;
 			ArchivoNeighbors neighbors(archivo);
-			
 			Matriz m,g;
 			m.setIdentity();//initialize with the identity matrix
 			ConjuntoActiveSets posibles_activos, activos, anteriores;//initialize active sets
 			neighbors.calcularG0(g);//initialize gradient
-			
-			
 			
 			for(int i = 0; i<10000; i++){//while not converged do
 			
@@ -110,7 +107,6 @@ int main(int argc, char* argv[]){
 					//compute Nt+1 only search active set
 				}
 				cout<<"Posibles activos:"<<activos.size()<<endl;
-				
 				cout<<"Voy a calcular la G nueva"<<endl;
 				
 				ConjuntoActiveSets salieron, entraron;
@@ -124,7 +120,6 @@ int main(int argc, char* argv[]){
 				g+=g-gResta+gSuma;//sumaresta de gradientes
 				
 				cout<<"Descmponiendo las matrices"<<endl;
-				
 				Matriz m_def = m-0.1*g;//Mt-alfa*Gt+1
 				Eigen::EigenSolver<Matriz> solver(m_def);
 				Matriz delta = solver.pseudoEigenvalueMatrix();
@@ -136,11 +131,11 @@ int main(int argc, char* argv[]){
 				ostringstream oss;
 				oss<<"matrices/"<<DIMENSIONES<<"M"<<i<<".matriz";
 				ofstream off(oss.str().c_str());
-				off<<m;
+				off<<m/FACTOR_AMPLIACION;
 				cout<<"Guardo la matriz como "<<oss.str()<<endl;
 			}
 			
-			off<<m;//output Mt
+			off<<m/FACTOR_AMPLIACION;//output Mt
 			
 		}else if(argv[1][0]=='g'){
 			ofstream off("G0.dat");
